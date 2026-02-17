@@ -1,0 +1,264 @@
+================================================================================
+=== BROWSE CLASS RECORDINGS - FULL SECTION ===
+================================================================================
+<div class="centered-container w-container">
+ <h1 class="font-color-primary">
+  Browse Class Recordings
+ </h1>
+ <p class="paragraph events">
+  View clip recordings of past classes taught by Cloud Classroom instructors.
+ </p>
+ <div class="gallery-grid-container">
+  <a class="gallery-lightbox w-lightbox" href="#" id="w-node-c98a4767-3769-5413-7801-ee4785f1d123-1c209844">
+   <img alt="" class="gallery-thumbnail" sizes="(max-width: 479px) 100vw, (max-width: 767px) 48vw, (max-width: 991px) 167px, (max-width: 1439px) 220px, 285px" src="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d968223ed54_kid1.jpg" srcset="https://assets-global.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d968223ed54_kid1-p-500.jpeg 500w, https://assets-global.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d968223ed54_kid1.jpg 748w"/>
+   <script class="w-json" type="application/json">
+    {
+  "items": [],
+  "group": ""
+}
+   </script>
+  </a>
+  <div class="w-embed-youtubevideo" id="w-node-_071ca014-c62a-9dce-addb-d568fe2ea2dd-1c209844" style="padding-top:56.17021276595745%">
+   <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/dbbrjtGi3Zo?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Cloud Classroom 2020 Summer Camp (World History)">
+   </iframe>
+  </div>
+  <div class="w-embed-youtubevideo" id="w-node-f28c3050-db9c-1146-406d-4db63720475b-1c209844" style="padding-top:56.17021276595745%">
+   <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/CUsAdnIBBzQ?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Cloud Classroom 2021 Summer, Introduction to Web Development With Python &amp; JavaScript, Class 8">
+   </iframe>
+  </div>
+  <div class="w-embed-youtubevideo" id="w-node-_5c92b59f-537d-4552-3e09-995069ead354-1c209844" style="padding-top:56.17021276595745%">
+   <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/Jh6CSqm1cgE?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Introduction to G4 Math">
+   </iframe>
+  </div>
+  <div class="w-embed-youtubevideo" id="w-node-_1a6aca6a-4107-e230-5fda-735253418d54-1c209844" style="padding-top:56.17021276595745%">
+   <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/o6MoKTAXQh8?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Cloud Classroom 2020 Summer Camp (US History)">
+   </iframe>
+  </div>
+  <a class="gallery-lightbox w-lightbox" href="#">
+   <img alt="" class="gallery-thumbnail" src="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d75fc23ed61_school.jpg"/>
+   <script class="w-json" type="application/json">
+    {
+  "items": [],
+  "group": ""
+}
+   </script>
+  </a>
+  <div class="w-embed-youtubevideo" id="w-node-_5a2fcf65-69b4-0e35-67c6-c4f2564ce040-1c209844" style="padding-top:56.17021276595745%">
+   <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/kno_Vetvzpc?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Class 1 of Cloud Classroom 2022 Spring, CS304 - Introduction to Java">
+   </iframe>
+  </div>
+  <div class="w-embed-youtubevideo" id="w-node-b8094332-98ad-498c-0d93-8c247e1bae03-1c209844" style="padding-top:56.17021276595745%">
+   <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/Ipj9-81NSOY?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Cloud Classroom 2021 Summer, Introduction to Scratch (China Class), Class 6">
+   </iframe>
+  </div>
+  <div class="w-embed-youtubevideo" id="w-node-b5c3c8d8-c205-423e-add5-770df5d8ea33-1c209844" style="padding-top:56.17021276595745%">
+   <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/YYg1dgLle9U?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Cloud Classroom 2020, Pre-Algebra Class 4">
+   </iframe>
+  </div>
+ </div>
+</div>
+
+
+--- Found heading, walking up ---
+  Level 0: <div> class=['centered-container', 'w-container']
+  Level 1: <div> class=['section', 'community']
+
+--- Section found at level 1 ---
+<div class="section community">
+ <div class="container-medium-727px text-center w-container" data-w-id="86d46a5a-81e3-ca88-1bf0-0b20195b95ac" style="-webkit-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+ </div>
+ <div class="container-default-1209px w-container">
+ </div>
+ <div class="centered-container w-container">
+  <h1 class="font-color-primary">
+   Browse Class Recordings
+  </h1>
+  <p class="paragraph events">
+   View clip recordings of past classes taught by Cloud Classroom instructors.
+  </p>
+  <div class="gallery-grid-container">
+   <a class="gallery-lightbox w-lightbox" href="#" id="w-node-c98a4767-3769-5413-7801-ee4785f1d123-1c209844">
+    <img alt="" class="gallery-thumbnail" sizes="(max-width: 479px) 100vw, (max-width: 767px) 48vw, (max-width: 991px) 167px, (max-width: 1439px) 220px, 285px" src="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d968223ed54_kid1.jpg" srcset="https://assets-global.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d968223ed54_kid1-p-500.jpeg 500w, https://assets-global.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d968223ed54_kid1.jpg 748w"/>
+    <script class="w-json" type="application/json">
+     {
+  "items": [],
+  "group": ""
+}
+    </script>
+   </a>
+   <div class="w-embed-youtubevideo" id="w-node-_071ca014-c62a-9dce-addb-d568fe2ea2dd-1c209844" style="padding-top:56.17021276595745%">
+    <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/dbbrjtGi3Zo?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Cloud Classroom 2020 Summer Camp (World History)">
+    </iframe>
+   </div>
+   <div class="w-embed-youtubevideo" id="w-node-f28c3050-db9c-1146-406d-4db63720475b-1c209844" style="padding-top:56.17021276595745%">
+    <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/CUsAdnIBBzQ?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Cloud Classroom 2021 Summer, Introduction to Web Development With Python &amp; JavaScript, Class 8">
+    </iframe>
+   </div>
+   <div class="w-embed-youtubevideo" id="w-node-_5c92b59f-537d-4552-3e09-995069ead354-1c209844" style="padding-top:56.17021276595745%">
+    <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/Jh6CSqm1cgE?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Introduction to G4 Math">
+    </iframe>
+   </div>
+   <div class="w-embed-youtubevideo" id="w-node-_1a6aca6a-4107-e230-5fda-735253418d54-1c209844" style="padding-top:56.17021276595745%">
+    <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/o6MoKTAXQh8?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Cloud Classroom 2020 Summer Camp (US History)">
+    </iframe>
+   </div>
+   <a class="gallery-lightbox w-lightbox" href="#">
+    <img alt="" class="gallery-thumbnail" src="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d75fc23ed61_school.jpg"/>
+    <script class="w-json" type="application/json">
+     {
+  "items": [],
+  "group": ""
+}
+    </script>
+   </a>
+   <div class="w-embed-youtubevideo" id="w-node-_5a2fcf65-69b4-0e35-67c6-c4f2564ce040-1c209844" style="padding-top:56.17021276595745%">
+    <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/kno_Vetvzpc?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Class 1 of Cloud Classroom 2022 Spring, CS304 - Introduction to Java">
+    </iframe>
+   </div>
+   <div class="w-embed-youtubevideo" id="w-node-b8094332-98ad-498c-0d93-8c247e1bae03-1c209844" style="padding-top:56.17021276595745%">
+    <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/Ipj9-81NSOY?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Cloud Classroom 2021 Summer, Introduction to Scratch (China Class), Class 6">
+    </iframe>
+   </div>
+   <div class="w-embed-youtubevideo" id="w-node-b5c3c8d8-c205-423e-add5-770df5d8ea33-1c209844" style="padding-top:56.17021276595745%">
+    <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/YYg1dgLle9U?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Cloud Classroom 2020, Pre-Algebra Class 4">
+    </iframe>
+   </div>
+  </div>
+ </div>
+ <div class="card">
+ </div>
+ <div class="div-block-12">
+  <a class="button-primary w-button" href="https://www.youtube.com/channel/UCSZOOzOIdGPin_9jkMeqy1Q/featured" target="_blank">
+   View all on YouTube
+  </a>
+ </div>
+</div>
+
+
+================================================================================
+=== WHAT FAMILIES SAY - FULL SECTION ===
+================================================================================
+NOT FOUND - searching differently
+  Possible: <span> ['font-color-primary'] => families
+
+================================================================================
+=== HACKPNW - FULL EVENT CARD ===
+================================================================================
+<a class="card-title-link w-inline-block" href="/event/hackpnw">
+ <h3 class="title card-event">
+  HackPNW
+ </h3>
+</a>
+
+
+================================================================================
+=== TESTIMONIAL SLIDER (Slider 1) ===
+================================================================================
+<div class="slider-2 w-slider" data-animation="slide" data-autoplay="false" data-autoplay-limit="0" data-delay="4000" data-disable-swipe="false" data-duration="500" data-easing="ease" data-hide-arrows="false" data-infinite="true" data-nav-spacing="3">
+ <div class="mask w-slider-mask">
+  <div class="slide-3 w-slide">
+   <div class="testimonial-quote-block">
+    <blockquote class="block-quote-2">
+     My daughter absolutely loves the courses we've taken! Her instructors are a great encouragement and and the academic program is great.
+    </blockquote>
+    <div class="testimonial-quote-student">
+     - Millie M, parent
+    </div>
+   </div>
+  </div>
+  <div class="w-slide">
+   <div class="testimonial-quote-block">
+    <blockquote class="block-quote-2">
+     I was nervous at first, but the class was super fun and I learned a lot!
+    </blockquote>
+    <div class="testimonial-quote-student">
+     - August D, student
+    </div>
+   </div>
+  </div>
+  <div class="w-slide">
+   <div class="testimonial-quote-block">
+    <blockquote class="block-quote-2">
+     The Cloud Classroom has a low student-to-teacher ratio, and we were able to make adjustments to meet the needs of my son. Great attention to detail!
+    </blockquote>
+    <div class="testimonial-quote-student">
+     - Juni W, parent
+    </div>
+   </div>
+  </div>
+  <div class="w-slide">
+   <div class="testimonial-quote-block">
+    <blockquote class="block-quote">
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.
+    </blockquote>
+    <div class="testimonial-quote-student">
+     - Mary Jane, student
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="left-arrow-2 w-slider-arrow-left">
+  <div class="icon w-icon-slider-left">
+  </div>
+ </div>
+ <div class="right-arrow-2 w-slider-arrow-right">
+  <div class="w-icon-slider-right">
+  </div>
+ </div>
+ <div class="slide-nav-2 w-slider-nav w-round">
+ </div>
+</div>
+
+
+================================================================================
+=== ALL GALLERY/LIGHTBOX ELEMENTS ===
+================================================================================
+<div class="gallery-grid-container">
+ <a class="gallery-lightbox w-lightbox" href="#" id="w-node-c98a4767-3769-5413-7801-ee4785f1d123-1c209844">
+  <img alt="" class="gallery-thumbnail" sizes="(max-width: 479px) 100vw, (max-width: 767px) 48vw, (max-width: 991px) 167px, (max-width: 1439px) 220px, 285px" src="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d968223ed54_kid1.jpg" srcset="https://assets-global.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d968223ed54_kid1-p-500.jpeg 500w, https://assets-global.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d968223ed54_kid1.jpg 748w"/>
+  <script class="w-json" type="application/json">
+   {
+  "items": [],
+  "group": ""
+}
+  </script>
+ </a>
+ <div class="w-embed-youtubevideo" id="w-node-_071ca014-c62a-9dce-addb-d568fe2ea2dd-1c209844" style="padding-top:56.17021276595745%">
+  <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/dbbrjtGi3Zo?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Cloud Classroom 2020 Summer Camp (World History)">
+  </iframe>
+ </div>
+ <div class="w-embed-youtubevideo" id="w-node-f28c3050-db9c-1146-406d-4db63720475b-1c209844" style="padding-top:56.17021276595745%">
+  <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/CUsAdnIBBzQ?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Cloud Classroom 2021 Summer, Introduction to Web Development With Python &amp; JavaScript, Class 8">
+  </iframe>
+ </div>
+ <div class="w-embed-youtubevideo" id="w-node-_5c92b59f-537d-4552-3e09-995069ead354-1c209844" style="padding-top:56.17021276595745%">
+  <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/Jh6CSqm1cgE?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Introduction to G4 Math">
+  </iframe>
+ </div>
+ <div class="w-embed-youtubevideo" id="w-node-_1a6aca6a-4107-e230-5fda-735253418d54-1c209844" style="padding-top:56.17021276595745%">
+  <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/o6MoKTAXQh8?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Cloud Classroom 2020 Summer Camp (US History)">
+  </iframe>
+ </div>
+ <a class="gallery-lightbox w-lightbox" href="#">
+  <img alt="" class="gallery-thumbnail" src="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d75fc23ed61_school.jpg"/>
+  <script class="w-json" type="application/json">
+   {
+  "items": [],
+  "group": ""
+}
+  </script>
+ </a>
+ <div class="w-embed-youtubevideo" id="w-node-_5a2fcf65-69b4-0e35-67c6-c4f2564ce040-1c209844" style="padding-top:56.17021276595745%">
+  <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/kno_Vetvzpc?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Class 1 of Cloud Classroom 2022 Spring, CS304 - Introduction to Java">
+  </iframe>
+ </div>
+ <div class="w-embed-youtubevideo" id="w-node-b8094332-98ad-498c-0d93-8c247e1bae03-1c209844" style="padding-top:56.17021276595745%">
+  <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/Ipj9-81NSOY?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Cloud Classroom 2021 Summer, Introduction to Scratch (China Class), Class 6">
+  </iframe>
+ </div>
+ <div class="w-embed-youtubevideo" id="w-node-b5c3c8d8-c205-423e-add5-770df5d8ea33-1c209844" style="padding-top:56.17021276595745%">
+  <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/YYg1dgLle9U?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Cloud Classroom 2020, Pre-Algebra Class 4">
+  </iframe>
+ </div>
+</div>
+

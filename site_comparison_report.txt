@@ -1,0 +1,190 @@
+================================================================================
+COMPREHENSIVE SITE COMPARISON REPORT
+Local: http://127.0.0.1:5000  |  Production: https://www.thecloudclassroom.org
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+PAGE: Home (/)
+────────────────────────────────────────────────────────────────────────────────
+
+  [Navigation]
+    🟡 [MEDIUM] Only in local nav: {'/product/2020-summer-basic-english-learning-grades-1-2', '/product/2021-summer-inroduction-to-scratch-us-class', '/product/2021-summer-basic-geometry', '/product/2020-summer-basic-math-for-grade-2-3', '/product/2020-winter-ap-us-history-free-response', '/product/2020-winter-ap-world-history-free-response'} | Only in prod nav: {'/licenses', '/category/grade-7', '/category/grade-9', 'https://academytemplate.webflow.io/event/brand-identity-design-qa-with-sophie-moore', '/changelog', '/product/hist311-history-of-art', '/product/sci403-introduction-to-fundamentalsin-science', '/product/wrt408-poem-writing', '/product/hist312-history-of-japan', '/product/cs307-algorithm-with-java', '/category/grade-6', 'https://academytemplate.webflow.io/post/8-great-design-trends-that-are-coming-back', '/category/grade-4', '/category/grade-8', '/course/brand-identity-design-for-marketers', '/category/english-writing', '/category/grade-10', '/category/grade-5', 'https://academytemplate.webflow.io/teacher/john-carter', '/checkout', '/blog', 'https://academytemplate.webflow.io/404', '/start-here', '/product/cs308-basics-of-web-development', 'https://academytemplate.webflow.io/401', 'https://academytemplate.webflow.io/product/brand-identity-design-for-marketers'}
+
+  [Headings]
+    🟡 [MEDIUM] Headings only in LOCAL: {'basic english learning grades 1-2 (g1-g2)', 'ap us history free response question workshop', 'ap world history free response question workshop', 'cs201(a) - inroduction to scratch us class (g2-g5)', 'basic math for grade 2-3 (g2-g3)', 'welcome to\u200dcloud classroom', 'basic geometry (g5 - g8)'}
+    🟡 [MEDIUM] Headings only in PROD: {'utility pages', 'your cart', 'wrt408 - poem writing', 'hist311 - history of art', 'welcome to \u200dcloud classroom', 'cs308 - basics of web development', 'sci403 - introduction to fundamentalsin science', 'cs307 - algorithm with java', 'hist312 - history of japan'}
+
+  [Images]
+    🟡 [MEDIUM] Images only in LOCAL (29): ['6155a696514fd68346eeeb68_basic%20english%20learning%20grade1-2.jpg', '6155a77ad1e84b4ea2c524c6_basic%20math%20for%20grade2-3.jpg', '6155afa8d69b9e4b7ee82e43_ap%20us%20history%20free%20response.jpg', '6155afe47599001bdaf7cbfd_ap%20world%20history%20free%20response.jpg', '616bbe9726aac6903fe328f5_introduction%20to%20scratch%20(%20us%20).png', '6175014a53242000bc7f4cc1_basic%20geometry.png', 'about-academy-webflow-template.jpg', 'circle-shape-01-academy-template.svg', 'circle-shape-02-academy-template.svg', 'circle-shape-03-academy-template.svg']
+    🟡 [MEDIUM] Images only in PROD (35): ['60306606d61c1d1db323ecbb_icon-level-02-academy-template.svg', '60306606d61c1d25d123ec36_image-cta-v1-academy-template.jpg', '60306606d61c1d27e023ec24_circle-shape-04-academy-template.svg', '60306606d61c1d286923ec60_circle-shape-01-academy-template.svg', '60306606d61c1d288623ec7f_icon-level-03-academy-template.svg', '60306606d61c1d2e0323ed55_sf.png', '60306606d61c1d2e0e23ed15_about-academy-webflow-template.jpg', '60306606d61c1d3ede23ec37_circle-shape-testimonial-01-academy-template.svg', '60306606d61c1d43f723ec3c_circle-shape-testimonial-04-academy-template.svg', '60306606d61c1d4e1623ec67_circle-shape-02-academy-template.svg']
+    ⚪ [INFO] Image count: Local=35, Prod=54
+
+  [Footer]
+    🔵 [MINOR] Footer links only in local: {'/community', 'https://www.facebook.com/', '/contact-us', 'https://webflow.com/', '/instructors', 'https://www.instagram.com/', '/about-us', 'https://www.linkedin.com/', 'https://twitter.com/', '/', '/courses'} | only in prod: none
+
+  [Forms]
+    🔵 [MINOR] Local forms: {'wf-form-Footer-Newsletter'}, Prod forms: {'', 'wf-form-Footer-Newsletter'}
+
+  [Stylesheets]
+    ⚪ [INFO] Stylesheet count: Local=9, Prod=1
+
+  [Scripts]
+    ⚪ [INFO] Script count: Local=10, Prod=2
+
+  [Content]
+    🟡 [MEDIUM] Prod text not found locally (13 snippets): ['CS308 - Basics of Web Development Grade 6 Grade 7 Grade 8 Grade 4 Grade 5 $ 0.', 'Continue to Checkout No items found.', 'Courses About us OUR INSTRUCTORS ARE STUDENTS/ALUMNI from institutions such as O', 'Courses Welcome to \u200d Cloud Classroom Cloud Classroom, a 501© (3) certified nonpr', 'Product is not available in this quantity.']
+
+────────────────────────────────────────────────────────────────────────────────
+PAGE: About Us (/about-us)
+────────────────────────────────────────────────────────────────────────────────
+
+  [Navigation]
+    🟡 [MEDIUM] Only in local nav: none | Only in prod nav: {'/licenses', 'https://academytemplate.webflow.io/teacher/john-carter', '/checkout', 'https://academytemplate.webflow.io/post/8-great-design-trends-that-are-coming-back', '/blog', 'https://academytemplate.webflow.io/404', '/start-here', '/course/brand-identity-design-for-marketers', 'https://academytemplate.webflow.io/event/brand-identity-design-qa-with-sophie-moore', '/changelog', 'https://academytemplate.webflow.io/401', 'https://academytemplate.webflow.io/product/brand-identity-design-for-marketers'}
+
+  [Headings]
+    🟡 [MEDIUM] Headings only in PROD: {'utility pages', 'your cart'}
+
+  [Images]
+    🟡 [MEDIUM] Images only in LOCAL (12): ['classroom1.png', 'classroom2.jpg', 'codegirl.jpg', 'icon-newsletter-academy-template.svg', 'icon-slider-01-academy-template.svg', 'icon-slider-02-academy-template.svg', 'icon-slider-03-academy-template.svg', 'kid1.jpg', 'kid2.jpg', 'paypal-logo.svg']
+    🟡 [MEDIUM] Images only in PROD (11): ['60306606d61c1d262823ed53_kid2.jpg', '60306606d61c1d3f5823ecd4_icon-slider-02-academy-template.svg', '60306606d61c1d454623ed50_classroom1.png', '60306606d61c1d50da23eccd_icon-slider-03-academy-template.svg', '60306606d61c1d58d123ed1c_paypal-logo.svg', '60306606d61c1d643e23ed4f_codegirl.jpg', '60306606d61c1d704623ec6a_icon-newsletter-academy-template.svg', '60306606d61c1d967723ed52_classroom2.jpg', '60306606d61c1d968223ed54_kid1.jpg', '60306606d61c1db36623ed13_stripe-logo.svg']
+
+  [Footer]
+    🔵 [MINOR] Footer links only in local: {'/community', 'https://www.facebook.com/', '/contact-us', 'https://webflow.com/', '/instructors', 'https://www.instagram.com/', '/about-us', 'https://www.linkedin.com/', 'https://twitter.com/', '/', '/courses'} | only in prod: none
+
+  [Forms]
+    🔵 [MINOR] Local forms: {'wf-form-Footer-Newsletter'}, Prod forms: {'', 'wf-form-Footer-Newsletter'}
+
+  [Stylesheets]
+    ⚪ [INFO] Stylesheet count: Local=9, Prod=1
+
+  [Scripts]
+    ⚪ [INFO] Script count: Local=10, Prod=2
+
+  [Content]
+    🟡 [MEDIUM] Prod text not found locally (3 snippets): ['Continue to Checkout No items found.', 'Product is not available in this quantity.', 'USD : Remove Subtotal Pay with browser.']
+
+  [Team Structure]
+    🟡 [MEDIUM] founder-card count: Local=9, Prod=8
+
+────────────────────────────────────────────────────────────────────────────────
+PAGE: Courses (/courses)
+────────────────────────────────────────────────────────────────────────────────
+
+  [Navigation]
+    🟡 [MEDIUM] Only in local nav: {'/courses/2021-summer-inroduction-to-scratch-us-class', '/courses/2020-fall-reading-club-g6-g9', '/courses/cs304-introduction-to-java-g5-g9', '/courses/2020-summer-world-history', '/courses/literature-analysis-la205', '/courses/2020-fall-introduction-to-python', '/courses/2021-summer-introduction-to-g4-math', '/courses/2020-summer-literary-analysis-seminar-g6-g9', '/courses/literature-analysis-la405', '/courses/2020-summer-basic-english-learning-grades-1-2', '/courses/2020-summer-us-history', '/courses/2021-winter-la207-literary-analysis-g3-g4', '/courses/la409-literary-analysis-g6', '/courses/wrt404-creative-writing-ii-g6-g9-10', '/courses/2020-winter-ap-us-history-free-response', '/courses/2021-summer-intro-to-web-development', '/courses/cs305-introduction-to-python-for-kenya-g4-g8', '/courses/literature-analysis-la308', '/courses/2020-summer-pre-algebra', '/courses/hist312-history-of-japan', '/courses/2021-summer-basic-geometry', '/courses/sci403-introduction-to-fundamentalsin-science', '/courses/spn103-spanish-class-for-beginners-iii-g4-g9', '/courses/la409-gone-with-the-wind-little-women-g6-g9', '/courses/cs202-introduction-to-scratch-g3-g5', '/courses/2020-fall-french', '/courses/2020-summer-introduction-to-geometry-g7-g10', '/courses/2021-summer-introduction-to-algebra-ii', '/courses/la208-diary-of-a-wimpy-kid-a-long-walk-to-water-g3-g4', '/courses/2021-fall-la309-literary-analysis-g4-g6', '/courses/2020-fall-literacy-analysis-little-prince-and-treasure-island', '/courses/wrt408-poem-writing', '/courses/la311-a-separate-peace-the-outsiders-g4-g6', '/courses/2020-summer-introduction-to-public-speaking', '/courses/2020-summer-reading-club-g4-g6', '/courses/literature-analysis-la307', '/courses/literature-analysis-la204', '/courses/2020-summer-introduction-to-web-development-with-python-javascript', '/courses/2020-fall-reading-club-g4-g6-2', '/courses/wrt405-writing-workshop-china-class-g6-g9', '/courses/2020-summer-basic-math-for-grade-2-3', '/courses/2020-winter-ap-world-history-free-response', '/courses/cs401-introduction-to-java-for-kenya-g6-g9', '/courses/literature-analysis-la406', '/courses/hist311-history-of-art', '/courses/cs306-introduction-to-web-development-for-kenya-g4-g8', '/courses/cs307-algorithm-with-java', '/courses/2020-fall-close-reading-session-1-hamlet', '/courses/2020-winter-introduction-to-grade-5-math', '/courses/2020-december-winter-history-camp-g5-g12-explore-ancient-egypt-greece', '/courses/2020-summer-introduction-to-grade-6-math', '/courses/2020-winter-digital-art-workshop', '/courses/2021-winter-fr105-basic-french', '/courses/2020-summer-introduction-to-grade-5-math', '/courses/spn102-spanish-class-for-beginners-g4-g9', '/courses/2021-fall-creative-writing-wrt403', '/courses/la310-french-class-for-beginners-g4-g9-copy', '/courses/la416-harry-potter-book-3-4-g3-g9', '/courses/cs308-basics-of-web-development', '/courses/hist307-england-and-the-british-empire-g4-g6', '/courses/2021-summer-introduction-to-python-games-dev', '/courses/la410-war-and-peace-g6-g9', '/courses/2021-summer-inroduction-to-scratch-china-class', '/courses/2020-fall-introduction-to-python-china-class', '/courses/2020-summer-introduction-to-grade-4-math', '/courses/french-level-1-for-beginners-fr103', '/courses/2020-summer-reading-club-g4-g5', '/courses/2020-winter-introduction-to-grade-4-math', '/courses/2021-fall-la206-literary-analysis-g3-g4', '/courses/2020-fall-reading-club-g3-g4', '/courses/2021-spring-introduction-to-ancient-roman-ottoman-empire-hist102', '/courses/2020-fall-reading-club-g4-g6-1', '/courses/2021-fall-la408-literary-analysis-g6-g9', '/courses/fr105-french-class-for-beginners-g4-g9', '/courses/2020-summer-geometry-g7-g10', '/courses/2021-winter-hist307-england-and-the-british-empire', '/courses/2021-fall-hist305-european-history-g6-g12', '/courses/la207-mrs-frizby-and-the-rats-of-nimh-g3-g4', '/courses/wrt404-creative-writing-ii-g6-g9', '/courses/2020-winter-introduction-to-grade-3-math', '/courses/2021-summer-pre-algebra-china-class'} | Only in prod nav: {'/licenses', '/category/grade-7', '/category/grade-9', 'https://academytemplate.webflow.io/event/brand-identity-design-qa-with-sophie-moore', '/changelog', '/product/hist311-history-of-art', '/product/sci403-introduction-to-fundamentalsin-science', '/product/wrt408-poem-writing', '/product/hist312-history-of-japan', '/product/cs307-algorithm-with-java', '/category/grade-6', 'https://academytemplate.webflow.io/post/8-great-design-trends-that-are-coming-back', '/category/grade-4', '/category/grade-8', '/course/brand-identity-design-for-marketers', '/category/english-writing', '/category/grade-10', '/category/grade-5', 'https://academytemplate.webflow.io/teacher/john-carter', '/checkout', '/blog', 'https://academytemplate.webflow.io/404', '/start-here', '/product/cs308-basics-of-web-development', 'https://academytemplate.webflow.io/401', 'https://academytemplate.webflow.io/product/brand-identity-design-for-marketers'}
+
+  [Headings]
+    🟡 [MEDIUM] Headings only in LOCAL: {'literary analysis seminar (g6-g9)', 'pre algebra (g5-g10+)', 'cs201(b) - inroduction to scratch china class (g2-g5)', 'cs304 - introduction to java (g5-g9)', 'fr105 - basic french (g4-g9)', 'reading club - charlie and the chocolate factory & matilda (g3-g4)', 'history camp - explore ancient egypt & greece (g5 - g12)', 'la406 - fail safe & hunt for red october (g6-g9)', 'la307 - les miserable & death on the nile (g4-g6)', 'hist305 - european history (g6 - g12)', 'la409 - gone with the wind & little women (g6-g9)', 'french (g4-g9)', 'introduction to grade 4 math (grade 4)', 'basic math for grade 2-3 (g2-g3)', 'basic geometry (g5 - g8)', 'literacy analysis little prince and treasure island (g4-g6)', 'digital art workshop (g3+)', 'geometry (g7-g10+)', 'cs306 - introduction to web development for kenya (g4-g8)', 'introduction to python & games dev', 'search for a course:', 'la416 - harry potter book 3 && 4 (g3-g9)', 'ap world history free response question workshop', 'cs401 - introduction to java for kenya (g6-g9)', 'world history', 'hist102 - introduction to ancient roman & ottoman empire (g3-g4)', 'la405 - a tale of two cities & the demolished man (g6-g9)', 'introduction to grade 3 math (g3)', 'la408 - pride and prejudice & jane eyre (g6 - g9)', 'introduction to web development', 'la309 - the hobbit & the lord of the rings (g4 - g6)', 'cs201(a) - inroduction to scratch us class (g2-g5)', 'wrt403 - creative writing ( g6-g9 )', 'la410 - war and peace (g6-g9)', 'reading club - the call of the wild & oliver twist (g4-g6)', 'hist307 - england and the british empire (g4-g6)', 'fr105 - french class for beginners (g4-g9)', 'introduction to grade 5 math (g5)', 'wrt404 - creative writing ii (g6-g9)', 'introduction to python us class (g4-g6)', 'la207 - mr. frizby and the rats of nimh (g3 - g4)', 'mth404 - introduction to algebra ii', 'reading club - the little prince & treasure island (g4-g5)', 'close reading session 1 hamlet (g4-g9)', 'la311 - a separate peace & the outsiders (g4-g6)', 'mth303(b) - pre algebra china class (g4-g6)', 'la205 - the silver chair & the last battle (g3-g4)', 'introduction to geometry (g7-g10+)', 'reading club - christmas carol & twenty thousand leagues under the sea (g4-g6)', 'hist307 - england and the british empire', 'la308 - dr. jekyll and mr. hyde & brave new world (g4-g6)', 'reading club - the swiss family robinson & the old man and the sea (g4-g6)', 'basic english learning grades 1-2 (g1-g2)', 'spn103 - spanish class for beginners iii (g4-g9)', 'la310 - number the stars & the giver (g3-g6)', 'us history', 'introduction to grade 4 math (g4)', 'la207 - mrs. frizby and the rats of nimh (g3-g4)', 'fr103 - french level 1 for beginners (g4-g9)', 'la208 - diary of a wimpy kid & a long walk to water (g3-g4)', 'la204 - the lion & the witch and the wardrobe and prince caspian (g3-g4)', 'ap us history free response question workshop', 'introduction to grade 6 math (grade 6)', 'introduction to python (china class)', 'cs202 - introduction to scratch for kenya (g3-g5)', 'cs305 - introduction to python for kenya (g4-g8)', 'introduction to public speaking', 'la206 - novels by andersen (g3 - g4)', 'spn102- spanish class for beginners ii (g4-g9)', 'introduction to web development with python & javascript', 'wrt405 - writing workshop china class (g6-g9)', 'reading club - julius caesar & the last of mohicans (g6-g9)'}
+    🟡 [MEDIUM] Headings only in PROD: {'utility pages', 'your cart'}
+
+  [Images]
+    🟡 [MEDIUM] Images only in LOCAL (92): ['604eccfd1a63f07b2d575d28_french.jpg', '60b181f367986cef83cd55dc_la%20307%20(1).png', '60b5d8e7ca5d3a8ecb6eefb5_la%20405%20(1).png', '60b5db81999dc17eeace7d61_la%20204.png', '614d9f54266cd61b08d0ee8c_la205.jpg', '614e95e44145580725b31a4f_800657712247a1e7c2d52a1a80fa40c.jpg', '614e9b7a84f75404062b5f7b_8f1ea80d9ee87307cd8cdd45d26de3d.jpg', '61547bdcef9c358eec1a15ef_2020prealgebra.jpg', '6155a1147e925115082ecf1d_close%20reading%20session1%20hamlet.jpg', '6155a2dd5318f26f0f6bee1b_french.jpg']
+    🟡 [MEDIUM] Images only in PROD (22): ['60306606d61c1d1db323ecbb_icon-level-02-academy-template.svg', '60306606d61c1d288623ec7f_icon-level-03-academy-template.svg', '60306606d61c1d297e23ecb9_circle-shape-courses-02-academy-template.svg', '60306606d61c1d2dcd23ec78_image-testimonial-courses-02-academy-template.jpg', '60306606d61c1d30f223ec91_circle-shape-courses-04-academy-template.svg', '60306606d61c1d35f823ec56_circle-shape-cta-04-academy-template.svg', '60306606d61c1d36a223ec33_image-testimonial-courses-01-academy-template.jpg', '60306606d61c1d3f5923ec49_circle-shape-cta-02-academy-template.svg', '60306606d61c1d410523ec4a_circle-shape-cta-03-academy-template.svg', '60306606d61c1d555e23ec76_circle-shape-courses-03-academy-template.svg']
+    ⚪ [INFO] Image count: Local=345, Prod=46
+
+  [Footer]
+    🔵 [MINOR] Footer links only in local: {'/community', 'https://www.facebook.com/', '/contact-us', 'https://webflow.com/', '/instructors', 'https://www.instagram.com/', '/about-us', 'https://www.linkedin.com/', 'https://twitter.com/', '/', '/courses'} | only in prod: none
+
+  [Stylesheets]
+    ⚪ [INFO] Stylesheet count: Local=3, Prod=1
+
+  [Content]
+    🟡 [MEDIUM] Prod text not found locally (8 snippets): ['Continue to Checkout No items found.', 'Our Courses SIGN UP \ue807 \ue809 \ue800 \ue801 Pages \ue808 Home About Courses Community Instructors Con', 'Product is not available in this quantity.', 'USD : Remove Subtotal Pay with browser.', 'USD HIST311 - History of Art Grade 6 Grade 7 Grade 8 Grade 9 English Writing $ 0']
+
+────────────────────────────────────────────────────────────────────────────────
+PAGE: Community (/community)
+────────────────────────────────────────────────────────────────────────────────
+
+  [Navigation]
+    🟡 [MEDIUM] Only in local nav: none | Only in prod nav: {'/licenses', 'https://academytemplate.webflow.io/teacher/john-carter', '/checkout', 'https://academytemplate.webflow.io/post/8-great-design-trends-that-are-coming-back', '/event/hackpnw', '/blog', 'https://academytemplate.webflow.io/404', '/start-here', '/course/brand-identity-design-for-marketers', 'https://academytemplate.webflow.io/event/brand-identity-design-qa-with-sophie-moore', '/changelog', 'https://academytemplate.webflow.io/401', 'https://academytemplate.webflow.io/product/brand-identity-design-for-marketers'}
+
+  [Headings]
+    🟡 [MEDIUM] Headings only in PROD: {'utility pages', 'your cart'}
+
+  [Images]
+    🟡 [MEDIUM] Images only in LOCAL (12): ['63d4f119a9e7e71ee259ba2c_hackpnw%20(1).png', 'circle-shape-newsletter-events-01-academy-template.svg', 'circle-shape-newsletter-events-02-academy-template.svg', 'circle-shape-newsletter-events-03-academy-template.svg', 'circle-shape-newsletter-events-04-academy-template.svg', 'icon-event-01-academy-template.svg', 'icon-event-02-academy-template.svg', 'icon-event-03-academy-template.svg', 'icon-newsletter-academy-template.svg', 'paypal-logo.svg']
+    🟡 [MEDIUM] Images only in PROD (11): ['60306606d61c1d236023ecc4_icon-event-03-academy-template.svg', '60306606d61c1d58d123ed1c_paypal-logo.svg', '60306606d61c1d6b7a23ec86_circle-shape-newsletter-events-03-academy-template.svg', '60306606d61c1d704623ec6a_icon-newsletter-academy-template.svg', '60306606d61c1d91a323ec79_circle-shape-newsletter-events-04-academy-template.svg', '60306606d61c1d9ec823ec88_circle-shape-newsletter-events-02-academy-template.svg', '60306606d61c1db36623ed13_stripe-logo.svg', '60306606d61c1dcfc223eccc_icon-event-01-academy-template.svg', '60306606d61c1dd58623ecb3_circle-shape-newsletter-events-01-academy-template.svg', '60306606d61c1de72123ecca_icon-event-02-academy-template.svg']
+    ⚪ [INFO] Image count: Local=15, Prod=20
+
+  [CSS Classes]
+    ⚪ [INFO] Local classes not in prod: {'w-col', 'w-row', 'w-col-4'}
+
+  [Footer]
+    🔵 [MINOR] Footer links only in local: {'/community', 'https://www.facebook.com/', '/contact-us', 'https://webflow.com/', '/instructors', 'https://www.instagram.com/', '/about-us', 'https://www.linkedin.com/', 'https://twitter.com/', '/', '/courses'} | only in prod: none
+
+  [Forms]
+    🔵 [MINOR] Local forms: {'wf-form-Footer-Newsletter', 'wf-form-Event-Newsletter'}, Prod forms: {'', 'wf-form-Footer-Newsletter', 'wf-form-Event-Newsletter'}
+
+  [Stylesheets]
+    ⚪ [INFO] Stylesheet count: Local=9, Prod=1
+
+  [Scripts]
+    ⚪ [INFO] Script count: Local=10, Prod=2
+
+  [Content]
+    🟡 [MEDIUM] Prod text not found locally (4 snippets): ['Continue to Checkout No items found.', 'Product is not available in this quantity.', 'USD : Remove Subtotal Pay with browser.', 'We’ll never send you spam.']
+
+────────────────────────────────────────────────────────────────────────────────
+PAGE: Instructors/Volunteers (/instructors)
+────────────────────────────────────────────────────────────────────────────────
+
+  [Navigation]
+    🟡 [MEDIUM] Only in local nav: none | Only in prod nav: {'/instructor/viv', '/instructor/lauren-kim', '/instructor/ethan-hu', '/instructor/nathan-risleu', '/instructor/lauren-kim-2', '/instructor/keira-castaneda', '/instructor/eileen-wang', '/instructor/sophie', '/instructor/lsabel-asker', '/instructor/lero-wang', '/instructor/ted-guan', '/instructor/jonathan-wang', '/instructor/alexander-zhu', '/instructor/wesley-zhang', 'https://academytemplate.webflow.io/teacher/john-carter', '/checkout', '/instructor/omar-wahby', '/instructor/eddie-yin', '/instructor/julio-scull', '/blog', 'https://academytemplate.webflow.io/404', '/instructor/peishan-peng', 'https://academytemplate.webflow.io/401', '/licenses', '/instructor/kevin', '/instructor/isabel-asker', '/instructor/andrea', 'https://academytemplate.webflow.io/event/brand-identity-design-qa-with-sophie-moore', '/changelog', '/instructor/boyuan-liu', '/instructor/yanda-bao', '/instructor/eric-zheng', '/instructor/alan-wu', '/instructor/jonathan-wang-2', '/instructor/adrian-pu', '/instructor/feier-shen', '/instructor/kasturi-kirubaharan', 'https://academytemplate.webflow.io/post/8-great-design-trends-that-are-coming-back', 'https://webflow.com', '/course/brand-identity-design-for-marketers', '/instructor/leo-li', '/instructor/omar-wahby-2', '/instructor/boyuan-liu-2', '/instructor/emily', '/instructor/jacqueline-cai', '/instructor/dinesh', '/instructor/justin-wahby', '/instructor/dabao-zhu', '/instructor/kyle-le', '/instructor/steven-li', '/instructor/nathan-pan', '/start-here', '/instructor/jacob-inocencio', '/instructor/matthew', 'https://academytemplate.webflow.io/product/brand-identity-design-for-marketers'}
+
+  [Headings]
+    🟡 [MEDIUM] Headings only in PROD: {'pages\ue808', 'utility pages', 'your cart'}
+
+  [Images]
+    🟡 [MEDIUM] Images only in LOCAL (2): ['60306606d61c1d3a2023ec7e_icon-newsletter-academy-template.svg', '60306606d61c1dc76823ecfe_paypal-logo.svg']
+    🟡 [MEDIUM] Images only in PROD (26): ['60306606d61c1d268223ec29_circle-shape-teachers-03-academy-template.svg', '60306606d61c1d313023ed91_screen%20shot%202020-09-11%20at%208.01.07%20pm.png', '60306606d61c1d35f823ec56_circle-shape-cta-04-academy-template.svg', '60306606d61c1d35f923ec2a_circle-shape-teachers-04-academy-template.svg', '60306606d61c1d3f5923ec49_circle-shape-cta-02-academy-template.svg', '60306606d61c1d410523ec4a_circle-shape-cta-03-academy-template.svg', '60306606d61c1d4db823ec62_circle-shape-teachers-02-academy-template.svg', '60306606d61c1d58d123ed1c_paypal-logo.svg', '60306606d61c1d591223ec65_circle-shape-cta-01-academy-template.svg', '60306606d61c1d652823ec39_image-cta-04-academy-template.svg']
+    ⚪ [INFO] Image count: Local=48, Prod=61
+
+  [Footer]
+    🔵 [MINOR] Footer links only in local: none | only in prod: {'https://webflow.com/'}
+
+  [Forms]
+    🔵 [MINOR] Local forms: {'wf-form-Footer-Newsletter'}, Prod forms: {'', 'wf-form-Footer-Newsletter'}
+
+  [Content]
+    🟡 [MEDIUM] Prod text not found locally (49 snippets): ['At Beijing Foreign Studies University, he taught business English and Latin Amer', 'Boyuan Liu View Profile Nathan Risleu a certified French and German teacher in b', 'Continue to Checkout No items found.', 'He also taught English and western culture to employees at The Ministry of Emerg', 'I&#x27;m really glad to become a teacher in web development at Cloud Classroom.']
+
+  [QR Codes]
+    🟡 [MEDIUM] QR code references: Local=42, Prod=30
+
+  [Third-party Widgets]
+    🟡 [MEDIUM] Production uses 'commonninja' widget not found in local
+    🟡 [MEDIUM] Production uses 'commoninja' widget not found in local
+
+────────────────────────────────────────────────────────────────────────────────
+PAGE: Contact Us (/contact-us)
+────────────────────────────────────────────────────────────────────────────────
+
+  [Navigation]
+    🟡 [MEDIUM] Only in local nav: {'mailto:info@thecloudclassroom.org', 'tel:(425)599-3288', 'tel:(425)599-3227'} | Only in prod nav: {'/licenses', 'tel:(415)701-2323', 'https://academytemplate.webflow.io/401', 'https://academytemplate.webflow.io/teacher/john-carter', '/checkout', 'https://academytemplate.webflow.io/post/8-great-design-trends-that-are-coming-back', 'https://webflow.com', '/blog', 'https://academytemplate.webflow.io/404', '/start-here', 'https://academytemplate.webflow.io/event/brand-identity-design-qa-with-sophie-moore', '/course/brand-identity-design-for-marketers', '/changelog', 'mailto:sanfrancico@academy.com', 'https://academytemplate.webflow.io/product/brand-identity-design-for-marketers'}
+
+  [Headings]
+    🟡 [MEDIUM] Headings only in PROD: {'pages\ue808', 'utility pages', 'your cart'}
+
+  [Images]
+    🟡 [MEDIUM] Images only in LOCAL (2): ['60306606d61c1d3a2023ec7e_icon-newsletter-academy-template.svg', '60306606d61c1dc76823ecfe_paypal-logo.svg']
+    🟡 [MEDIUM] Images only in PROD (3): ['60306606d61c1d58d123ed1c_paypal-logo.svg', '60306606d61c1d704623ec6a_icon-newsletter-academy-template.svg', '60306606d61c1df9f923ecdc_email-contact-icon.svg']
+    ⚪ [INFO] Image count: Local=5, Prod=8
+
+  [Footer]
+    🔵 [MINOR] Footer links only in local: none | only in prod: {'https://webflow.com/'}
+
+  [Forms]
+    🔵 [MINOR] Local forms: {'wf-form-Contact-Form', 'wf-form-Footer-Newsletter'}, Prod forms: {'', 'wf-form-Contact-Form', 'wf-form-Footer-Newsletter'}
+
+  [Content]
+    🟡 [MEDIUM] Prod text not found locally (10 snippets): ['Continue to Checkout No items found.', 'Enim amet, elementum faucibus id ultrices facilisis.', 'Est fringilla morbi mauris gravida.', 'Eu vel arcu neque vitae vitae justo.', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.']
+
+================================================================================
+SUMMARY
+================================================================================
+Total differences found: 60
+  🔴 HIGH:   0
+  🟡 MEDIUM: 36
+  🔵 MINOR:  11
+  ⚪ INFO:   13
+================================================================================

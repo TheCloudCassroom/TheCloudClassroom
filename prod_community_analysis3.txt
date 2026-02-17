@@ -1,0 +1,182 @@
+================================================================================
+=== WHAT FAMILIES SAY (section-14) ===
+================================================================================
+<div class="section-14" id="Summer-Camp-US-History">
+ <div class="container-medium-727px text-center w-container" data-w-id="3867e0ad-8a50-b1da-d0cc-7046e6faf820" style="-webkit-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+  <h1 class="special-2">
+   What
+   <span class="font-color-primary">
+    families
+   </span>
+   say
+  </h1>
+  <p class="paragraph events">
+   Read student and parent testimonials here.
+   <br/>
+   Have a story to tell?
+   <a href="#">
+    Share it with us!
+   </a>
+  </p>
+ </div>
+ <div class="container-default-1209px w-container">
+ </div>
+ <div class="slider-2 w-slider" data-animation="slide" data-autoplay="false" data-autoplay-limit="0" data-delay="4000" data-disable-swipe="false" data-duration="500" data-easing="ease" data-hide-arrows="false" data-infinite="true" data-nav-spacing="3">
+  <div class="mask w-slider-mask">
+   <div class="slide-3 w-slide">
+    <div class="testimonial-quote-block">
+     <blockquote class="block-quote-2">
+      My daughter absolutely loves the courses we've taken! Her instructors are a great encouragement and and the academic program is great.
+     </blockquote>
+     <div class="testimonial-quote-student">
+      - Millie M, parent
+     </div>
+    </div>
+   </div>
+   <div class="w-slide">
+    <div class="testimonial-quote-block">
+     <blockquote class="block-quote-2">
+      I was nervous at first, but the class was super fun and I learned a lot!
+     </blockquote>
+     <div class="testimonial-quote-student">
+      - August D, student
+     </div>
+    </div>
+   </div>
+   <div class="w-slide">
+    <div class="testimonial-quote-block">
+     <blockquote class="block-quote-2">
+      The Cloud Classroom has a low student-to-teacher ratio, and we were able to make adjustments to meet the needs of my son. Great attention to detail!
+     </blockquote>
+     <div class="testimonial-quote-student">
+      - Juni W, parent
+     </div>
+    </div>
+   </div>
+   <div class="w-slide">
+    <div class="testimonial-quote-block">
+     <blockquote class="block-quote">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.
+     </blockquote>
+     <div class="testimonial-quote-student">
+      - Mary Jane, student
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="left-arrow-2 w-slider-arrow-left">
+   <div class="icon w-icon-slider-left">
+   </div>
+  </div>
+  <div class="right-arrow-2 w-slider-arrow-right">
+   <div class="w-icon-slider-right">
+   </div>
+  </div>
+  <div class="slide-nav-2 w-slider-nav w-round">
+  </div>
+ </div>
+</div>
+
+
+================================================================================
+=== HACKPNW - FULL w-dyn-item CARD ===
+================================================================================
+<div class="w-dyn-item" data-w-id="55cd279d-65f1-1f8d-20fe-77100a429ba9" role="listitem" style="-webkit-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+ <div class="card events">
+  <a class="card-image-link events w-inline-block" href="/event/hackpnw">
+   <img alt="" class="image card-events" sizes="(max-width: 479px) 93vw, (max-width: 767px) 90vw, (max-width: 1439px) 40vw, 487.6171875px" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/63ce08b370ce98136769a9f3_Hackthon.png" srcset="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/63ce08b370ce98136769a9f3_Hackthon-p-500.png 500w, https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/63ce08b370ce98136769a9f3_Hackthon-p-800.png 800w, https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/63ce08b370ce98136769a9f3_Hackthon.png 898w" width="50"/>
+  </a>
+  <div class="card-content events">
+   <a class="card-title-link w-inline-block" href="/event/hackpnw">
+    <h3 class="title card-event">
+     HackPNW
+    </h3>
+   </a>
+   <p>
+    HackPNW is a two day highschool hackathon @Microsoft Reactor, Redmond Washington. We encourage highschool students from around the Pacific Northwest to come and compete for fortune and glory! There will be code, There will be prizes, and most of all there will be lots of fun! Best of all it's entirely free (including food)!
+   </p>
+   <div class="divider card-events">
+   </div>
+   <div class="card-event-details-wrapper">
+    <div class="event-date-wrapper">
+     <div class="event-date">
+      <img alt="" class="event-icon" src="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/60306606d61c1dcfc223eccc_icon-event-01-academy-template.svg"/>
+      <div class="event-details-text">
+       February 4, 2023
+      </div>
+     </div>
+     <div class="event-time">
+      <img alt="" class="event-icon" src="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/60306606d61c1de72123ecca_icon-event-02-academy-template.svg"/>
+      <div class="event-details-text">
+       9:00 am
+      </div>
+     </div>
+    </div>
+    <div class="event-location-wrapper">
+     <img alt="" class="event-icon location" src="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d236023ecc4_icon-event-03-academy-template.svg"/>
+     <div class="event-location-text">
+      Microsoft Reactor, Redmond Washington.
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+
+
+================================================================================
+=== UPCOMING EVENTS - FULL SECTION (section community) ===
+================================================================================
+
+================================================================================
+=== WHAT FAMILIES SAY - heading structure ===
+================================================================================
+<span> class=['font-color-primary'] => 'families'
+  parent 0: <h1> class=['special-2']
+  parent 1: <div> class=['container-medium-727px', 'text-center', 'w-container']
+  parent 2: <div> class=['section-14']
+
+Found h1: class=['special-2'] => 'Whatfamiliessay'
+<h1 class="special-2">
+ What
+ <span class="font-color-primary">
+  families
+ </span>
+ say
+</h1>
+
+
+================================================================================
+=== What families say - subtitle/description ===
+================================================================================
+<p> class=['paragraph', 'events'] => 'Read student and parent testimonials here.Have a story to tell?Share it with us!'
+
+Parent container: <div> class=['container-medium-727px', 'text-center', 'w-container']
+<div class="container-medium-727px text-center w-container" data-w-id="3867e0ad-8a50-b1da-d0cc-7046e6faf820" style="-webkit-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+ <h1 class="special-2">
+  What
+  <span class="font-color-primary">
+   families
+  </span>
+  say
+ </h1>
+ <p class="paragraph events">
+  Read student and parent testimonials here.
+  <br/>
+  Have a story to tell?
+  <a href="#">
+   Share it with us!
+  </a>
+ </p>
+</div>
+
+
+================================================================================
+=== VIEW ALL ON YOUTUBE button ===
+================================================================================
+<a> class=['button-primary', 'w-button'] href=https://www.youtube.com/channel/UCSZOOzOIdGPin_9jkMeqy1Q/featured => 'View all on YouTube'
+  parent: <div> class=['div-block-12']
+<a class="button-primary w-button" href="https://www.youtube.com/channel/UCSZOOzOIdGPin_9jkMeqy1Q/featured" target="_blank">
+ View all on YouTube
+</a>
+

@@ -3895,9 +3895,10 @@ figcaption {
 
 .section.cta {
   overflow: hidden;
-  padding-top: 137px;
-  padding-bottom: 137px;
-  background-color: #3434ff;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  margin-top: 60px;
+  background-color: #2a2a69;
 }
 
 .section.video-hero {
@@ -4747,8 +4748,10 @@ figcaption {
 }
 
 .nav-link.w--current {
-  color: #2a2a69;
-  font-weight: 500;
+  color: #3434ff;
+  font-weight: 700;
+  border-bottom: 2px solid #3434ff;
+  padding-bottom: 4px;
 }
 
 .course-video-icon {
@@ -5809,7 +5812,7 @@ figcaption {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  padding-bottom: 60px;
+  padding-bottom: 40px;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
@@ -5819,6 +5822,7 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   border-bottom: 1px solid #ececf4;
+  position: relative;
 }
 
 .input {
@@ -5995,7 +5999,7 @@ figcaption {
   display: -ms-flexbox;
   display: flex;
   margin-right: auto;
-  margin-bottom: 110px;
+  margin-bottom: 40px;
   margin-left: auto;
   padding-top: 0px;
   padding-bottom: 0px;
@@ -6003,6 +6007,7 @@ figcaption {
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
+  position: relative;
 }
 
 .courses-hero-wrapper {
@@ -6803,9 +6808,11 @@ figcaption {
 }
 
 .footer {
-  padding-top: 90px;
+  padding-top: 60px;
   padding-bottom: 32px;
   background-color: #fff;
+  line-height: 0;
+  position: relative;
 }
 
 .rich-text h3 {
@@ -8815,6 +8822,8 @@ figcaption {
   }
   .nav-link.w--current {
     color: #fff;
+    border-bottom: none;
+    padding-bottom: 8px;
   }
   .slide-wrapper {
     padding-right: 45px;
@@ -11712,6 +11721,7 @@ figcaption {
 .section.hero {
   position: relative;
   padding: 0;
+  z-index: 1;
 }
 
 .section.hero .container-default-1209px {
@@ -11851,10 +11861,6 @@ figcaption {
 }
 .footer {
   opacity: 1!important;
-}
-.section.hero{
-  max-width: 1200px;
-  margin: 0 auto;
 }
 
 
@@ -12148,4 +12154,126 @@ width: 100%;
 }
 .section.community{
   padding-top: 80px;
+}
+
+/* Community page - production matching styles */
+.centered-container {
+  text-align: center;
+  flex: 1;
+  max-width: 1200px;
+}
+.centered-container.w-container {
+  max-width: 1200px;
+}
+h1.font-color-primary {
+  font-weight: 700;
+}
+.gallery-grid-container {
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  grid-template: "." "." / 1fr 1fr 1fr 1fr;
+  grid-auto-columns: 1fr;
+  align-self: center;
+  margin-top: 40px;
+  display: grid;
+}
+.gallery-grid-container .w-embed-youtubevideo {
+  position: relative;
+  width: 100%;
+}
+.gallery-lightbox {
+  position: relative;
+  overflow: hidden;
+}
+#w-node-gallery-featured {
+  grid-column: span 2;
+  grid-row: span 2;
+}
+.gallery-thumbnail {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+.section-13, .section-14 {
+  background-color: #f5f7fa;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.section-13 {
+  margin-top: 40px;
+  padding-top: 30px;
+}
+.section-13 .container-medium-727px,
+.centered-container .container-medium-727px {
+  max-width: 100%;
+}
+.div-block-12 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.div-block-14, .div-block-15 {
+  width: 100%;
+  text-align: center;
+}
+.container-3 {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.slider-4 {
+  max-width: 1200px;
+  min-height: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+.slide-4 {
+  min-height: 100%;
+}
+.mask-2 {
+  height: 100%;
+}
+.left-arrow-2 {
+  left: 25px;
+}
+.right-arrow-2 {
+  right: 25px;
+}
+.slide-nav-3 {
+  position: relative;
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 991px) {
+  .gallery-grid-container {
+    align-self: stretch;
+  }
+  .centered-container.w-container {
+    max-width: 728px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .gallery-grid-container {
+    max-width: none;
+    grid-template-rows: auto auto auto auto;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media screen and (max-width: 479px) {
+  .gallery-grid-container {
+    grid-template-rows: auto auto auto auto auto;
+    grid-template-columns: 1fr;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .centered-container {
+    text-align: left;
+  }
+  .centered-container.w-container {
+    max-width: none;
+  }
 }

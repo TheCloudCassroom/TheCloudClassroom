@@ -1,0 +1,139 @@
+================================================================================
+=== SECTION ORDER (ALL HEADINGS) ===
+================================================================================
+  0: <h1> class=['special-2'] => "Upcomingevents"
+       parent chain: container-medium-727px.text-center.w-container > section.community > div-block-14
+  1: <h3> class=['title', 'card-event'] => "HackPNW"
+       parent chain: card-title-link.w-inline-block > card-content.events > card.events
+  2: <h2> class=['special-2', 'font-color-primary'] => "Community through the lens"
+       parent chain: container-3.w-container > section-13 > div-block-14
+  3: <h1> class=['font-color-primary'] => "Browse Class Recordings"
+       parent chain: centered-container.w-container > section.community > div-block-14
+  4: <h1> class=['special-2'] => "Whatfamiliessay"
+       parent chain: container-medium-727px.text-center.w-container > section-14 > div-block-14
+  5: <h2> class=['title', 'newsletter-events'] => "Never miss another event!"
+       parent chain: split-content.newsletter-events-left > newsletter-events-wrapper > container-default-1209px.w-container
+  6: <h3> class=['footer-title'] => "Pagesεáê"
+       parent chain: footer-mobile-title > links-block._2 > footer-links-block
+
+================================================================================
+=== 1. COMMUNITY THROUGH THE LENS ===
+================================================================================
+<div class="section-13">
+ <div class="container-3 w-container" data-w-id="78e47083-7b8b-2ed1-0906-7e1b7e06f4b2" style="-webkit-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+  <h2 class="special-2 font-color-primary">
+   Community through the lens
+  </h2>
+  <p class="paragraph events">
+   Meet students and teachers from Cloud Classroom instructors.
+  </p>
+  <div class="div-block-15">
+   <div class="slider-4 w-slider" data-animation="slide" data-autoplay="false" data-autoplay-limit="0" data-delay="4000" data-disable-swipe="false" data-duration="500" data-easing="ease" data-hide-arrows="false" data-infinite="true" data-nav-spacing="3">
+    <div class="w-slider-mask">
+     <div class="w-slide">
+      <div class="w-embed-youtubevideo youtube-class" style="padding-top:56.17021276595745%">
+       <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/x1vqWmB5a94?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Georgia &amp; Gloria - Summer camp students">
+       </iframe>
+      </div>
+     </div>
+     <div class="slide-8 w-slide">
+      <div class="w-embed-youtubevideo youtube-3" style="padding-top:56.17021276595745%">
+       <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/NGhoXSiB9Yw?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Justin - Literature Analysis class student">
+       </iframe>
+      </div>
+     </div>
+     <div class="slide-9 w-slide">
+      <div class="w-embed-youtubevideo youtube-4" style="padding-top:56.17021276595745%">
+       <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/uhpA0tu9Xk8?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" title="Jonathan - Cloud Classroom regional director">
+       </iframe>
+      </div>
+     </div>
+    </div>
+    <div class="w-slider-arrow-left">
+     <div class="w-icon-slider-left">
+     </div>
+    </div>
+    <div class="w-slider-arrow-right">
+     <div class="w-icon-slider-right">
+     </div>
+    </div>
+    <div class="slide-nav-4 w-slider-nav w-round">
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="container-default-1209px w-container">
+ </div>
+ <div class="div-block-8">
+ </div>
+ <div class="card">
+ </div>
+</div>
+
+
+================================================================================
+=== 1b. YOUTUBE VIDEOS IN 'THROUGH THE LENS' SLIDER ===
+================================================================================
+Slider 0: 3 slides, 3 iframes
+  iframe 0: src=https://www.youtube.com/embed/x1vqWmB5a94?rel=0&controls=1&autoplay=0&mute=0&start=0
+  iframe 1: src=https://www.youtube.com/embed/NGhoXSiB9Yw?rel=0&controls=1&autoplay=0&mute=0&start=0
+  iframe 2: src=https://www.youtube.com/embed/uhpA0tu9Xk8?rel=0&controls=1&autoplay=0&mute=0&start=0
+  slide 0: YouTube embed src=https://www.youtube.com/embed/x1vqWmB5a94?rel=0&controls=1&autoplay=0&mute=0&start=0
+  slide 1: YouTube embed src=https://www.youtube.com/embed/NGhoXSiB9Yw?rel=0&controls=1&autoplay=0&mute=0&start=0
+  slide 2: YouTube embed src=https://www.youtube.com/embed/uhpA0tu9Xk8?rel=0&controls=1&autoplay=0&mute=0&start=0
+Slider 1: 4 slides, 0 iframes
+
+================================================================================
+=== 2. BROWSE CLASS RECORDINGS ===
+================================================================================
+
+================================================================================
+=== 2b. BROWSE CLASS RECORDINGS - ALL IFRAMES AND IMAGES ===
+================================================================================
+
+================================================================================
+=== 3. WHAT FAMILIES SAY ===
+================================================================================
+
+================================================================================
+=== 4. NEVER MISS ANOTHER EVENT (NEWSLETTER) ===
+================================================================================
+<div class="newsletter-events-wrapper">
+ <div class="split-content newsletter-events-left" data-w-id="a64e4142-528b-f7eb-06ea-9629c3dd876b" style="-webkit-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+  <h2 class="title newsletter-events">
+   Never miss another event!
+  </h2>
+  <p class="paragraph newsletter-events">
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio quisque integer elementum egestas aliquet tincidunt.
+  </p>
+ </div>
+ <div class="split-content newsletter-events-right" data-w-id="a64e4142-528b-f7eb-06ea-9629c3dd8770" style="-webkit-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+  <div class="form-block newsletter w-form">
+   <form class="form-newsletter" data-name="Event Newsletter" data-wf-element-id="a64e4142-528b-f7eb-06ea-9629c3dd8772" data-wf-page-id="628563d03486d4a71c209844" id="wf-form-Event-Newsletter" method="get" name="wf-form-Event-Newsletter">
+    <input class="input newsletter-events w-input" data-name="Email" id="Email" maxlength="256" name="Email" placeholder="Enter your email" required="" type="email"/>
+    <input class="button-secondary cta newsletter w-button" data-wait="Please wait..." type="submit" value="Subscribe"/>
+   </form>
+   <div class="success-message newsletter w-form-done">
+    <div>
+     Thank you! You are now subscribed!
+    </div>
+   </div>
+   <div class="error-message w-form-fail">
+    <div>
+     Sorry, something went wrong!
+    </div>
+   </div>
+  </div>
+  <div class="newsletter-events-text">
+   WeΓÇÖll never send you spam.
+  </div>
+ </div>
+ <img alt="" class="circle-shape-newsletter-events _4" data-w-id="a64e4142-528b-f7eb-06ea-9629c3dd877d" src="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d91a323ec79_circle-shape-newsletter-events-04-academy-template.svg" style="-webkit-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"/>
+ <img alt="" class="circle-shape-newsletter-events _3" data-w-id="a64e4142-528b-f7eb-06ea-9629c3dd877e" src="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d6b7a23ec86_circle-shape-newsletter-events-03-academy-template.svg" style="-webkit-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"/>
+ <img alt="" class="circle-shape-newsletter-events _3" data-w-id="4e5902d7-6f0a-2093-ea96-b48fa31dee12" src="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d6b7a23ec86_circle-shape-newsletter-events-03-academy-template.svg" style="-webkit-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"/>
+ <img alt="" class="circle-shape-newsletter-events _2" data-w-id="a64e4142-528b-f7eb-06ea-9629c3dd877f" src="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d9ec823ec88_circle-shape-newsletter-events-02-academy-template.svg" style="-webkit-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"/>
+ <img alt="" class="cir
+
+================================================================================
+=== 5. HACKPNW EVENT CARD ===
+================================================================================

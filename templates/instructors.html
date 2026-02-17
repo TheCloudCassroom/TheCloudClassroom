@@ -1,173 +1,592 @@
 <!DOCTYPE html>
-<!--  This site was created in Webflow. http://www.webflow.com  -->
-<!--  Last Published: Mon Sep 28 2020 23:39:37 GMT+0000 (Coordinated Universal Time)  -->
-<html data-wf-page="5f5bb5fc1f67214663d44f3e" data-wf-site="5f5bb5fb0054280aeb0e2b98">
-<head>
-  <meta charset="utf-8">
-  <title>Instructors - Cloud Classroom</title>
-  <meta content="Instructors - Cloud Classroom" property="og:title">
-  <meta content="https://lh3.googleusercontent.com/-kw4Ih3DOniU/X1wmecWHpAI/AAAAAAAAAvk/pzlq8vMXbWsK6bf06YEBonzHGC_MI5y0gCK8BGAsYHg/s0/Untitled%2Bdesign.png" property="og:image">
-  <meta content="Instructors - Cloud Classroom" property="twitter:title">
-  <meta content="https://lh3.googleusercontent.com/-kw4Ih3DOniU/X1wmecWHpAI/AAAAAAAAAvk/pzlq8vMXbWsK6bf06YEBonzHGC_MI5y0gCK8BGAsYHg/s0/Untitled%2Bdesign.png" property="twitter:image">
-  <meta content="width=device-width, initial-scale=1" name="viewport">
-  <meta content="Webflow" name="generator">
-  <link href="/static/css/normalize.css" rel="stylesheet" type="text/css">
-  <link href="/static/css/webflow.css" rel="stylesheet" type="text/css">
-  <link href="/static/css/cloudclassroom.webflow.css" rel="stylesheet" type="text/css">
-  <!-- [if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif] -->
-  <script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
-  <link href="/static/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <link href="/static/images/webclip.ico" rel="apple-touch-icon">
-</head>
-<body>
-  <div class="page-wrapper">
-    <div data-collapse="medium" data-animation="default" data-duration="1000" data-easing="ease-out-expo" data-easing2="ease-out-expo" data-w-id="483cd0ea-0ffd-1df5-02c0-5a28799302cc" role="banner" class="header w-nav">
-      <div class="container-default-1209px w-container">
-        <div class="header-wrapper">
-          <div data-w-id="483cd0ea-0ffd-1df5-02c0-5a28799302cf" class="split-content header-left"><a href="index.html" class="brand w-nav-brand"><img src="/static/images/Screen-Shot-2020-09-11-at-11.38.12-AM.png" srcset="/static/images/Screen-Shot-2020-09-11-at-11.38.12-AM-p-500.png 500w, /static/images/Screen-Shot-2020-09-11-at-11.38.12-AM-p-800.png 800w, /static/images/Screen-Shot-2020-09-11-at-11.38.12-AM-p-1080.png 1080w, /static/images/Screen-Shot-2020-09-11-at-11.38.12-AM-p-1600.png 1600w, /static/images/Screen-Shot-2020-09-11-at-11.38.12-AM-p-2000.png 2000w, /static/images/Screen-Shot-2020-09-11-at-11.38.12-AM.png 2440w" sizes="(max-width: 479px) 125px, 148px" alt="" class="header-logo"></a>
-            <nav role="navigation" class="nav-menu w-nav-menu"><a href="index.html" class="nav-link">Home</a>
-              <div data-hover="" data-delay="0" data-w-id="8d41c972-856f-446c-3022-9951bcba0af8" class="header-dropdown w-dropdown">
-                <div class="header-dropdown-toggle w-dropdown-toggle"></div>
-                <nav class="dropdown-list w-dropdown-list">
-                  <div class="menu-grid-wrapper">
-                    <div class="w-layout-grid menu-grid">
-                      <div>
-                        <h4 class="mega-menu-title hidden-mobile">Pages</h4>
-                        <div class="menu-2-columns">
-                          <div class="mega-menu-column-1"><a href="index.html" class="mega-menu-link">Home</a><a href="about-us.html" class="mega-menu-link">About</a><a href="courses.html" class="mega-menu-link">Courses</a><a href="https://academytemplate.webflow.io/product/brand-identity-design-for-marketers" class="mega-menu-link">Individual Course</a><a href="/static/course/brand-identity-design-for-marketers.html" class="mega-menu-link">Purchased Course</a></div>
-                          <div class="mega-menu-column-3"><a href="blog.html" class="mega-menu-link">Blog</a><a href="https://academytemplate.webflow.io/post/8-great-design-trends-that-are-coming-back" class="mega-menu-link">Blog Post</a><a href="community.html" class="mega-menu-link">Events</a><a href="https://academytemplate.webflow.io/event/brand-identity-design-qa-with-sophie-moore" class="mega-menu-link">Individual Event</a><a href="instructors.html" aria-current="page" class="mega-menu-link w--current">Teachers</a></div>
-                          <div class="mega-menu-column-3"><a href="https://academytemplate.webflow.io/teacher/john-carter" class="mega-menu-link">Individual Teacher</a><a href="contact-us.html" class="mega-menu-link">Contact</a></div>
-                        </div>
-                      </div>
-                      <div class="mega-menu-column-4">
-                        <h4 class="mega-menu-title">Utility Pages</h4><a href="#" class="mega-menu-link">Styleguide</a><a href="https://academytemplate.webflow.io/404" class="mega-menu-link">404 Not Found</a><a href="https://academytemplate.webflow.io/401" class="mega-menu-link">Password</a><a href="licenses.html" class="mega-menu-link">Licenses</a><a href="start-here.html" class="mega-menu-link">Start Here</a><a href="changelog.html" class="mega-menu-link">Changelog</a></div>
-                    </div>
-                  </div>
-                </nav>
-              </div><a href="about-us.html" class="nav-link">About</a><a href="community.html" class="nav-link">Community</a></nav>
-          </div>
-          <div data-w-id="483cd0ea-0ffd-1df5-02c0-5a2879930313" class="split-content header-right">
-            <div class="spacer header-right"></div><a href="courses.html" class="button-primary header-button w-button">Courses</a><a href="#" class="link-2">SIGN  IN</a>
-            <div data-w-id="63a3d12c-d009-7b48-0e75-aa6a4e6df1c4" class="menu-button w-nav-button">
-              <div class="menu-mobile-open">
-                <div data-w-id="dfcc5997-51d1-3127-3d63-550b2551acf9" data-animation-type="lottie" data-src="/static/documents/lf30_editor_0wfy2M.json" data-loop="0" data-direction="1" data-autoplay="0" data-is-ix2-target="1" data-renderer="svg" data-default-duration="1.6166666666666667" data-duration="0" data-ix2-initial-state="0" class="menu-mobile-button-icon"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="section teachers">
-      <div data-w-id="c6d88f6b-a772-608e-d14e-612dcf4e9fb4" style="-webkit-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="container-medium-727px text-center w-container">
-        <h1 class="special-2 teachers">Meet our <span class="font-color-primary">instructors and TAs</span>.</h1>
-        <p class="paragraph teachers">Our instructors and TAs are carefully selected high school and undergraduate students who volunteer their time and efforts to promoting educational equity. </p>
-      </div>
-      <div class="container-default-1209px w-container">
-        <div class="w-dyn-list">
-          <div role="list" class="meet-our-teachers-grid teachers w-dyn-items">
-            <div data-w-id="945d6bba-2e47-4980-1cde-f00d1287770b" style="-webkit-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" role="listitem" class="teacher-card w-dyn-item">
-              <div class="card teachers">
-                <div class="teacher-card-wrapper"><img src="" alt="" class="image teachers">
-                  <a data-w-id="945d6bba-2e47-4980-1cde-f00d1287770e" href="#" class="card-title-link teachers w-inline-block">
-                    <h3 class="title teachers"></h3>
-                  </a>
-                  <div class="teachers-work"></div>
-                  <p class="paragraph teachers-text"></p><a href="#" class="button-secondary w-button">View Profile</a></div>
-              </div>
-            </div>
-          </div>
-          <div class="card empty-state w-dyn-empty">
-            <div class="empty-state-text">There are no teachers available yet.</div>
-          </div>
-        </div>
-        <div data-w-id="c6d88f6b-a772-608e-d14e-612dcf4e9fc3" style="-webkit-transform:translate3d(0, 48PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 48PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 48PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 48PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="new-teachers-card">
-          <div data-w-id="8c188161-19d7-7f8c-840f-60bed5d4f47f" style="-webkit-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="new-teachers-wrapper">
-            <h3 class="title new-teachers">Become a volunteer instructor or TA!</h3><a href="contact-us.html" class="button-primary relative-z1 w-button">Get In Touch</a></div><img src="/static/images/circle-shape-teachers-04-academy-template.svg" data-w-id="c6d88f6b-a772-608e-d14e-612dcf4e9fca" style="-webkit-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" alt="" class="circle-shape-new-teachers _4"><img src="/static/images/circle-shape-teachers-03-academy-template.svg" data-w-id="c6d88f6b-a772-608e-d14e-612dcf4e9fcb" style="-webkit-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" alt="" class="circle-shape-new-teachers _3"><img src="/static/images/circle-shape-teachers-02-academy-template.svg" data-w-id="c6d88f6b-a772-608e-d14e-612dcf4e9fcc" style="-webkit-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" alt="" class="circle-shape-new-teachers _2"><img src="/static/images/circle-shape-teachers-01-academy-template.svg" data-w-id="c6d88f6b-a772-608e-d14e-612dcf4e9fcd" style="-webkit-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.97, 0.97, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" alt="" class="circle-shape-new-teachers _1"></div>
-      </div>
-    </div>
-    <div data-w-id="458a3e47-e544-5eec-ffce-58aa64417b32" class="section cta">
-      <div class="container-default-1209px w-container">
-        <div class="cta-wrapper">
-          <div data-w-id="458a3e47-e544-5eec-ffce-58aa64417b35" class="split-content cta-left">
-            <h2 class="title cta">It&#x27;s never too early to learn. Start with Cloud Classroom.</h2>
-            <p class="paragraph cta">Sign up now; it&#x27;s your first step towards a big goal.</p>
-            <div class="w-layout-grid grid-2"><a href="courses.html" class="button-secondary cta w-button">Our Courses</a><a href="index.html" class="button-secondary cta w-button">SIGN UP</a></div>
-          </div>
-          <div data-w-id="458a3e47-e544-5eec-ffce-58aa64417b3e" class="split-content cta-right"><img src="/static/images/image-cta-01-academy-template.svg" alt="" class="image cta-1"><img src="/static/images/image-cta-04-academy-template.svg" alt="" class="image cta-4"><img src="/static/images/image-cta-03-academy-template.svg" alt="" class="image cta-3"><img src="/static/images/image-cta-2.svg" alt="" class="image cta-2"></div><img src="/static/images/circle-shape-cta-04-academy-template.svg" data-w-id="458a3e47-e544-5eec-ffce-58aa64417b43" alt="" class="circle-shape-cta _4"><img src="/static/images/circle-shape-cta-03-academy-template.svg" data-w-id="458a3e47-e544-5eec-ffce-58aa64417b44" alt="" class="circle-shape-cta _3"><img src="/static/images/circle-shape-cta-02-academy-template.svg" data-w-id="458a3e47-e544-5eec-ffce-58aa64417b45" alt="" class="circle-shape-cta _2"><img src="/static/images/circle-shape-cta-01-academy-template.svg" data-w-id="458a3e47-e544-5eec-ffce-58aa64417b46" alt="" class="circle-shape-cta _1"></div>
-      </div>
-    </div>
-    <footer data-w-id="5d3def44-2af0-a39e-d268-cb5e4a46cda3" class="footer">
-      <div class="container-default-1209px w-container">
-        <div class="footer-links-block">
-          <div data-w-id="5d3def44-2af0-a39e-d268-cb5e4a46cda6" class="links-block footer-links"><a href="#" class="brand w-inline-block"><img src="/static/images/Screen-Shot-2020-09-11-at-11.38.12-AM.png" width="208" srcset="/static/images/Screen-Shot-2020-09-11-at-11.38.12-AM-p-500.png 500w, /static/images/Screen-Shot-2020-09-11-at-11.38.12-AM-p-800.png 800w, /static/images/Screen-Shot-2020-09-11-at-11.38.12-AM-p-1080.png 1080w, /static/images/Screen-Shot-2020-09-11-at-11.38.12-AM-p-1600.png 1600w, /static/images/Screen-Shot-2020-09-11-at-11.38.12-AM-p-2000.png 2000w, /static/images/Screen-Shot-2020-09-11-at-11.38.12-AM.png 2440w" sizes="(max-width: 479px) 66vw, 208px" alt=""></a>
-            <div class="social-media-wrapper footer-fine-print">
-              <a href="https://www.facebook.com/" class="social-media-icon-wrapper w-inline-block">
-                <div class="social-media-icon-footer"></div>
-              </a>
-              <div class="spacer social-media-footer"></div>
-              <a href="https://twitter.com/" class="social-media-icon-wrapper w-inline-block">
-                <div class="social-media-icon-footer twitter"></div>
-              </a>
-              <div class="spacer social-media-footer"></div>
-              <a href="https://www.instagram.com/" class="social-media-icon-wrapper w-inline-block">
-                <div class="social-media-icon-footer"></div>
-              </a>
-              <div class="spacer social-media-footer"></div>
-              <a href="https://www.linkedin.com/" class="social-media-icon-wrapper w-inline-block">
-                <div class="social-media-icon-footer"></div>
-              </a>
-            </div>
-          </div>
-          <div data-w-id="5d3def44-2af0-a39e-d268-cb5e4a46cda9" class="links-block _2">
-            <div data-w-id="5d3def44-2af0-a39e-d268-cb5e4a46cdaa" class="footer-mobile-title">
-              <h3 class="footer-title">Pages<span class="dropdown-icon-footer"></span></h3>
-            </div>
-            <div class="footer-mobile-content">
-              <div class="footer-content-links">
-                <ul role="list" class="list-footer w-list-unstyled">
-                  <li class="footer-list-item"><a href="index.html" class="footer-link">Home</a></li>
-                  <li class="footer-list-item"><a href="about-us.html" class="footer-link">About</a></li>
-                  <li class="footer-list-item"><a href="courses.html" class="footer-link">Courses</a></li>
-                </ul>
-                <div class="spacer links-footer"></div>
-                <ul role="list" class="list-footer w-list-unstyled">
-                  <li class="footer-list-item"><a href="community.html" class="footer-link">Community</a></li>
-                  <li class="footer-list-item"><a href="instructors.html" aria-current="page" class="footer-link w--current">Instructors</a></li>
-                  <li class="footer-list-item"><a href="contact-us.html" class="footer-link">Contact</a></li>
-                </ul>
-                <div class="spacer links-footer"></div>
-                <ul role="list" class="list-footer w-list-unstyled"></ul>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div data-w-id="5d3def44-2af0-a39e-d268-cb5e4a46cdf2" class="container-newsletter">
-          <div class="split-content newsletter-left">
-            <div class="newsletter-icon-wrapper"><img src="/static/images/icon-newsletter-academy-template.svg" alt="" class="newsletter-icon"></div>
-            <div class="newsletter-content">
-              <div class="title newsletter">Join our newsletter</div>
-              <div>Stay updated about new Cloud Classroom courses, events, and more!</div>
-            </div>
-          </div>
-          <div class="form-block newsletter w-form">
-            <form id="wf-form-Footer-Newsletter" name="wf-form-Footer-Newsletter" data-name="Footer Newsletter" class="form-newsletter"><input type="email" class="input newsletter w-input" maxlength="256" name="email-4" data-name="Email 4" placeholder="Enter your email" id="email-4" required=""><input type="submit" value="Subscribe" data-wait="Please wait..." class="button-primary w-button"></form>
-            <div class="success-message w-form-done">
-              <div>Thank you! You are now subscribed!</div>
-            </div>
-            <div class="error-message w-form-fail">
-              <div>Oops! Something went wrong.</div>
-            </div>
-          </div>
-        </div>
-        <div data-w-id="5d3def44-2af0-a39e-d268-cb5e4a46ce05" class="footer-fine-print-wrapper">
-          <div class="fine-print">Copyright 2020 © Cloud Classroom<a href="https://webflow.com/"></a></div>
-          <div class="payment-processor-container"><img src="/static/images/paypal-logo.svg" alt="" class="payment-processor-logo"><img src="/static/images/stripe-logo.svg" alt="" class="payment-processor-logo"></div>
-        </div>
-      </div>
-    </footer>
-  </div>
-  <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5f5bb5fb0054280aeb0e2b98" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-  <script src="/static/js/webflow.js" type="text/javascript"></script>
-  <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
-</body>
+<html data-wf-domain="www.thecloudclassroom.org" data-wf-page="5f5bb5fc1f67214663d44f3e" data-wf-site="60306606d61c1d030823ec1e" data-wf-status="1">
+	<head>
+		<meta charset="utf-8"/>
+		<title>Instructors - Cloud Classroom</title>
+		<meta content="Instructors - Cloud Classroom" property="og:title"/>
+		<meta content="Instructors - Cloud Classroom" property="twitter:title"/>
+		<meta content="width=device-width, initial-scale=1" name="viewport"/>
+		<meta content="Webflow" name="generator"/>
+		<link href="https://assets-global.website-files.com/60306606d61c1d030823ec1e/css/cloudclassroom-d626d0982bf066fecbc76582.webflow.d737571b4.css" rel="stylesheet" type="text/css"/>
+		<style>
+			.nav-link.w--current { color: #3434ff !important; font-weight: 700 !important; border-bottom: 2px solid #3434ff; padding-bottom: 4px; }
+			.nav-link:hover { color: #3434ff; }
+			@media screen and (max-width: 991px) {
+				.nav-link.w--current { color: #fff !important; border-bottom: none; padding-bottom: 8px; }
+				.nav-link:hover { color: #fff; }
+			}
+		</style>
+		<script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
+		<link href="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d675a23ed46_IMG_0144%20copy%20(1).ico" rel="shortcut icon" type="image/x-icon"/>
+		<link href="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d160e23ed47_IMG_0144%20copy%20(3).ico" rel="apple-touch-icon"/>
+	</head>
+	<body>
+		<div data-collapse="medium" data-animation="default" data-duration="1000" data-easing="ease-out-expo" data-easing2="ease-out-expo" data-w-id="483cd0ea-0ffd-1df5-02c0-5a28799302cc" role="banner" class="header w-nav">
+			<div class="container-default-1209px w-container">
+				<div class="header-wrapper">
+					<div data-w-id="483cd0ea-0ffd-1df5-02c0-5a28799302cf" class="split-content header-left">
+						<a href="/" class="brand w-nav-brand"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/6030af958678e259c6e94f21_logo.png" class="header-logo"/></a>
+						<nav role="navigation" class="nav-menu w-nav-menu">
+							<a href="/" class="nav-link">Home</a>
+							<div data-delay="0" data-hover="false" data-w-id="8d41c972-856f-446c-3022-9951bcba0af8" class="header-dropdown w-dropdown">
+								<div class="header-dropdown-toggle w-dropdown-toggle"></div>
+								<nav class="dropdown-list w-dropdown-list">
+									<div class="menu-grid-wrapper">
+										<div class="w-layout-grid menu-grid">
+											<div>
+												<h4 class="mega-menu-title hidden-mobile">Pages</h4>
+												<div class="menu-2-columns">
+													<div class="mega-menu-column-1"><a href="/" class="mega-menu-link">Home</a><a href="/about-us" class="mega-menu-link">About</a><a href="/courses" class="mega-menu-link">Courses</a></div>
+													<div class="mega-menu-column-3"><a href="/community" class="mega-menu-link">Events</a><a href="/instructors" class="mega-menu-link">Teachers</a></div>
+													<div class="mega-menu-column-3"><a href="/contact-us" class="mega-menu-link">Contact</a></div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</nav>
+							</div>
+							<a href="/about-us" class="nav-link">About</a>
+							<a href="/community" class="nav-link">Community</a>
+							<a href="/instructors" class="nav-link">Volunteers</a>
+							<a href="/contact-us" class="nav-link w-nav-link">Contact</a>
+						</nav>
+					</div>
+					<div data-w-id="483cd0ea-0ffd-1df5-02c0-5a2879930313" class="split-content header-right">
+						<div class="spacer header-right"></div>
+						<a href="/courses" class="button-primary header-button w-button">Courses</a>
+						<div data-w-id="63a3d12c-d009-7b48-0e75-aa6a4e6df1c4" class="menu-button w-nav-button">
+							<div class="menu-mobile-open">
+								<div data-w-id="dfcc5997-51d1-3127-3d63-550b2551acf9" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d508523ecf3_lf30_editor_0wfy2M.json" data-loop="0" data-direction="1" data-autoplay="0" data-is-ix2-target="1" data-renderer="svg" data-default-duration="1.6166666666666667" data-duration="0" data-ix2-initial-state="0" class="menu-mobile-button-icon"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="section teachers" style="padding-top: 20px;">
+			<div class="container-medium-727px text-center w-container">
+				<h1 class="special-2 teachers">Meet our <span class="font-color-primary">instructors and TAs</span>.</h1>
+				<p class="paragraph teachers">Our instructors and TAs are carefully selected high school and undergraduate students from around the world who volunteer their time and efforts to promoting educational equity.</p>
+				<img src="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/654da9a7a9309e9d3b2335df_TCC%20Map%201.jpg" loading="lazy" sizes="(max-width: 479px) 93vw, (max-width: 767px) 94vw, (max-width: 1439px) 95vw, 1152px" srcset="https://assets-global.website-files.com/60306606d61c1d030823ec1e/654da9a7a9309e9d3b2335df_TCC%20Map%201-p-500.jpg 500w, https://assets-global.website-files.com/60306606d61c1d030823ec1e/654da9a7a9309e9d3b2335df_TCC%20Map%201-p-800.jpg 800w, https://assets-global.website-files.com/60306606d61c1d030823ec1e/654da9a7a9309e9d3b2335df_TCC%20Map%201-p-1080.jpg 1080w, https://assets-global.website-files.com/60306606d61c1d030823ec1e/654da9a7a9309e9d3b2335df_TCC%20Map%201.jpg 1562w" alt="" class="image-5" style="width: 95vw; max-width: 100%; margin: 40px auto 0; display: block;"/>
+			</div>
+			<div class="container-default-1209px w-container">
+				<div class="w-dyn-list">
+					<div role="list" class="meet-our-teachers-grid teachers w-dyn-items">
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Ted Guan</h3>
+									<div class="teachers-work">Computer Science TA</div>
+									<p class="paragraph teachers-text">Ted is a high school student in WA. He has experience teaching in a winter camp session about computer science introduction. He also worked on various personal projects around programming and different technologies and services.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Nathan Pan</h3>
+									<div class="teachers-work">Science TA</div>
+									<p class="paragraph teachers-text">Nathan is a high school student in WA. He had various leadership/teaching opportunities in his Middle school studies and has a strong passion for joining Cloud Classroom to gain the capability to influence kids and teach them the wonders of learning about history, language arts, science, and so much more!</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Dabao Zhu</h3>
+									<div class="teachers-work">Math TA</div>
+									<p class="paragraph teachers-text">Dabao is a student at Overlake in WA. Dabao has a passion for contributing to the greater community in ways he can.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Eric Zheng</h3>
+									<div class="teachers-work">Math TA</div>
+									<p class="paragraph teachers-text">Eric is a high student in VA. He has teaching experiences for young kids and wants to be able to help kids learn math.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Kyle Le</h3>
+									<div class="teachers-work">Math Instructor</div>
+									<p class="paragraph teachers-text">Kyle is a senior student at Westwood High School in Texas. He plays the alto and tenor saxophone, and he is ecstatic to teach at Cloud Classroom.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Steven Li</h3>
+									<div class="teachers-work">Math TA</div>
+									<p class="paragraph teachers-text">Steven is a ski instructor, a formal martial arts teacher, and a free English tutor for kids from China. He loves to help other people learn and provide help when people are in need.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Alexander Zhu</h3>
+									<div class="teachers-work">Computer Science TA</div>
+									<p class="paragraph teachers-text">Alex is a high school student in WA. He has experience in Ruby, Java, and JavaScript and has a good understanding of data structure.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Leo Li</h3>
+									<div class="teachers-work">Math TA</div>
+									<p class="paragraph teachers-text">A high school student in WA.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Kasturi Kirubaharan</h3>
+									<div class="teachers-work">Math Instructor</div>
+									<p class="paragraph teachers-text">Kasturi Kirubaharan is an incoming 9th grader at Lynbrook High School. She has experience tutoring Algebra and Geometry students in grades higher than her. In addition, she is in the accelerated math pathway, which has allowed her to take Algebra in 7th grade and Geometry in 8th grade.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Viv</h3>
+									<div class="teachers-work">Science Instructor</div>
+									<p class="paragraph teachers-text">Viv is a college student at the University of British Columbia studying the sciences and has experience in tutoring and science outreach for secondary students.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Ethan Hu</h3>
+									<div class="teachers-work">Computer Science Instructor</div>
+									<p class="paragraph teachers-text">Ethan is a high school student at the Overlake School. He has been programming for six years now, participated in many competitions, and led and created many projects and teams.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Peishan Peng</h3>
+									<div class="teachers-work">English Tutor</div>
+									<p class="paragraph teachers-text">Peishan is an upcoming 8th-grade student from Overlake School. She has been a taekwondo instructor for young kids since March 2019 and was also a teaching assistant in an English school in Beijing, China. Peishan enjoys anime, manga, cosplay, sports, and roleplaying games in her spare time.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Eddie Yin</h3>
+									<div class="teachers-work">Computer Science TA</div>
+									<p class="paragraph teachers-text">Student in Overlake.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Jacob Inocencio</h3>
+									<div class="teachers-work">Public Speaking TA</div>
+									<p class="paragraph teachers-text">Jacob Inocencio has six years of speech and debate experience, competing in parliamentary debate, impromptu, and extemporaneous speech events. He is a junior at Christian Brothers High School.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Lauren Kim</h3>
+									<div class="teachers-work">Public Speaking Instructor</div>
+									<p class="paragraph teachers-text">Lauren Kim has seven years of speech and debate experience and three years of Model UN experience. She was the captain of the St.Francis High School team. She was a national octofinalist for speech and did parliamentary debate for three years in middle school. She will be attending the University of Pennsylvania in the fall and is the valedictorian of her graduating class.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Adrian Pu</h3>
+									<div class="teachers-work">Math TA</div>
+									<p class="paragraph teachers-text">A senior student in CA.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Eileen Wang</h3>
+									<div class="teachers-work">English TA</div>
+									<p class="paragraph teachers-text">Eileen Wang is a sixth grader at The Overlake School. Her hobbies include the visual arts, reading, writing, and traveling.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Sophie</h3>
+									<div class="teachers-work">Math TA</div>
+									<p class="paragraph teachers-text">Sophie is an upcoming sophomore at Skyline High School. She likes to read, enjoys math, and loves teaching.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Lero Wang</h3>
+									<div class="teachers-work">Math TA</div>
+									<p class="paragraph teachers-text">Lero Wang, a rising 8th-grader in California, is a straight-A student and an avid reader and scholar who wants to show his support for his younger peers during this math course for 6th-graders at Cloud Classroom. He has passed K-5 math, Pre-Algebra, and Algebra I with all A's and A+'s and has represented his school in various regional MathCounts competitions.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Emily</h3>
+									<div class="teachers-work">English Writing Instructor</div>
+									<p class="paragraph teachers-text">I am Emily, and I am a junior attending Westwood high school. I play flute in the school band, and I also love volleyball. I have a lot of experience teaching younger students, and I have even done a writing program for elementary schoolers with my friends. I am very excited to help more students and improve their writing skills!</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Justin Wahby</h3>
+									<div class="teachers-work">Speaker</div>
+									<p class="paragraph teachers-text">Justin Wahby, Stanford University class of 2025. Stanford (REA), USC, UC Berkeley, UCLA, UCSD, New England Conservatory of Music, Johns Hopkins, University Peabody Conservatory of Music.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Andrea</h3>
+									<div class="teachers-work">Spanish Teacher</div>
+									<p class="paragraph teachers-text">Andrea is a certified Spanish teacher. She lived in Shanghai between 2010 and 2019, working at international and local schools and preparing Chinese students for various exams, including GCSE Spanish. For over 20 years, she has taught students at all levels, from kindergarten to university, at various schools in the UK, Hungary, China, and Spain. She has always had a passion for teaching and loves to share ideas about different cultures.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Yanda Bao</h3>
+									<div class="teachers-work">Computer Science Instructor</div>
+									<p class="paragraph teachers-text">Yanda is a sophomore at Skyline High School, with a wealth of experience in programming and teaching. He is a two-time AIME qualifier, won first in ACSL's 2020-2021 season with Yuelu Academy, and is the vice-president of FRC Team 2976. He has been TAing and leading groups in CS Wonders' Java and Python classes for the past two years, with 5 years of Java experience, 6 years of Python experience, and numerous past projects. Yanda is passionate about STEM education, especially for underrepresented minorities.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Alan Wu</h3>
+									<div class="teachers-work">Math Instructor</div>
+									<p class="paragraph teachers-text">Alan Wu is a rising 10th grader at American Heritage High School interested in learning and teaching math. He has participated in math competitions since 5th grade, going to many regionals and statewide competitions and frequently placing in the top 10 at those competitions.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Wesley Zhang</h3>
+									<div class="teachers-work">Senior Student</div>
+									<p class="paragraph teachers-text">Senior Student</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Dinesh</h3>
+									<div class="teachers-work">Math Instructor</div>
+									<p class="paragraph teachers-text">Dinesh is a rising sophomore at Saint Louis University majoring in Health Management with minors in Biology and Business Technology Management. His area of study has allowed him to work with complex algorithms and mathematical simulations through a financial lens. In high school he also took AP Calculus BC as well as college level Calculus II and won numerous awards in calculus and other math competitions.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Isabel Asker</h3>
+									<div class="teachers-work">Math Instructor</div>
+									<p class="paragraph teachers-text">A senior student in CA.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Jacqueline Cai</h3>
+									<div class="teachers-work">Computer Science Instructor</div>
+									<p class="paragraph teachers-text">Jacqueline Cai is a rising senior at Skyline High School. She is an active member of the Skyline robotics team and a former member of various FIRST LEGO League and FIRST Tech Challenge teams. During the past seven years, she's had experience coding with Scratch, Python, Java and applying those skills to robotics. During the pandemic, she created a school simulation program using Java for users to interact with the computer console.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Feier Shen</h3>
+									<div class="teachers-work">Art Instructor</div>
+									<p class="paragraph teachers-text">UC Davis 3rd year design major</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Jonathan Wang</h3>
+									<div class="teachers-work">An up-and-coming 10th grader</div>
+									<p class="paragraph teachers-text">Jonathan Wang is an up-and-coming 10th grader at American Heritage School who is very passionate about math, learning, and teaching. Starting his math competition career in the 4th grade, Jonathan has also traveled statewide for regional and national competitions. He has a healthy appreciation for math, but he also participates in cello for both an ensemble and as a soloist and is a black belt in taekwondo.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Kevin</h3>
+									<div class="teachers-work">Math Instructor</div>
+									<p class="paragraph teachers-text">Kevin was a top high school student from Sacramento, CA, and is also a part of the National Honor Society. He will be attending the University of California Irvine as the class of 2024.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">lsabel Asker</h3>
+									<div class="teachers-work">None</div>
+									<p class="paragraph teachers-text">none</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Omar Wahby</h3>
+									<div class="teachers-work">Speaker</div>
+									<p class="paragraph teachers-text">Omar Wahby, Harvard University (Class of 2024), Harvard, Princeton, Yale, UC Berkeley, UCLA, UCSD.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Matthew Wang</h3>
+									<div class="teachers-work">Math Instructor</div>
+									<p class="paragraph teachers-text">Matthew is an outstanding student getting ready for 8th grade at American Heritage School. He is very passionate about math and has experience teaching younger students. Starting at the age of seven, his math competition career has brought him awards from 1st to 5th.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Keira Castaneda</h3>
+									<div class="teachers-work">English Tutor</div>
+									<p class="paragraph teachers-text">Keira Castaneda is a 7th-grade student at The Overlake School. She enjoys reading, drawing, and fencing.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Julio Scull</h3>
+									<div class="teachers-work">English Teacher</div>
+									<p class="paragraph teachers-text">Mr. Julio Scull is a great writer and teacher. He has published hundreds of articles about culture, business, politics, intelligent solutions to problems, history, creativity, and critical thinking. At China University of Political Science and Law, he has taught MBA courses in business, international marketing, international business strategies, and international marketing for undergrad students. After retiring, Mr. Scull has contributed his efforts and time to coaching young scholars in English language development, reading, writing, and boosting academic performance.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Boyuan Liu</h3>
+									<div class="teachers-work">A student in Sacramento, California</div>
+									<p class="paragraph teachers-text">'Hello World! My name is Boyuan, and I'm a student in Sacramento, California.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Boyuan Liu</h3>
+									<div class="teachers-work">Computer Programming Instructor</div>
+									<p class="paragraph teachers-text">My name is Boyuan, and I'm a student in Sacramento, California. I'm really glad to become a teacher in web development at Cloud Classroom. Hope you will join this class, and learn HTML, CSS, JS, and Python!</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Nathan Risleu</h3>
+									<div class="teachers-work">French and German Teacher</div>
+									<p class="paragraph teachers-text">Nathan Risleu is a certified French and German teacher in both Washington State and Ohio.</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Lauren Kim</h3>
+									<div class="teachers-work">English and Public Speaking Instructor</div>
+									<p class="paragraph teachers-text">Lauren Kim is a recent graduate from a top private high school in northern California. She has received 5's on the AP English Language and Composition and AP English Literature and Composition exams. She is a current freshman at the University of Pennsylvania (UPenn).</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Jonathan Wang</h3>
+									<div class="teachers-work">Instructor / TA</div>
+									<p class="paragraph teachers-text">I'm Jonathan Wang, a sophomore at American Heritage High School in Florida. Hope to see you in class in the future!</p>
+								</div>
+							</div>
+						</div>
+
+						<div role="listitem" class="teacher-card w-dyn-item">
+							<div class="card teachers">
+								<div class="teacher-card-wrapper"><img alt="" src="https://cdn.prod.website-files.com/60306606d61c1d0f6d23ec21/616bbfac6921813f83bea2bb_qrcode.png" class="image teachers"/>
+									<h3 class="title teachers">Omar Wahby</h3>
+									<div class="teachers-work">Instructor</div>
+									<p class="paragraph teachers-text">Omar is a college freshman at Harvard University who enjoys academics, classical music, and spending time with his friends.</p>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+				<!-- Hidden: volunteer instructor CTA
+				<div class="new-teachers-card" style="margin-top: 60px;">
+					<div class="new-teachers-wrapper">
+						<h3 class="title new-teachers">Become a volunteer instructor or TA!</h3>
+						<a href="https://docs.google.com/forms/d/e/1FAIpQLSc2GsSTUwOGnRoQzWwlACCrMTLbuUEg244Z-eAONE08ccPn_g/viewform" target="_blank" class="button-primary relative-z1 w-button">Get In Touch</a>
+					</div>
+				</div>
+				-->
+			</div>
+		</div>
+				<div class="section cta">
+			<div class="container-default-1209px w-container">
+				<div class="cta-wrapper">
+					<div class="split-content cta-left">
+						<h2 class="title cta">It&#x27;s never too early to learn. Start with Cloud Classroom.</h2>
+						<p class="paragraph cta">Sign up now; it&#x27;s your first step towards a big goal.</p>
+						<div class="w-layout-grid grid-2"><a href="/courses" class="button-secondary cta w-button">Our Courses</a><a href="/" class="button-secondary cta w-button">SIGN UP</a></div>
+					</div>
+					<div class="split-content cta-right"><img src="/static/images/image-cta-01-academy-template.svg" alt="" class="image cta-1"><img src="/static/images/image-cta-04-academy-template.svg" alt="" class="image cta-4"><img src="/static/images/image-cta-03-academy-template.svg" alt="" class="image cta-3"><img src="/static/images/image-cta-2.svg" alt="" class="image cta-2"></div><img src="/static/images/circle-shape-cta-04-academy-template.svg" alt="" class="circle-shape-cta _4"><img src="/static/images/circle-shape-cta-03-academy-template.svg" alt="" class="circle-shape-cta _3"><img src="/static/images/circle-shape-cta-02-academy-template.svg" alt="" class="circle-shape-cta _2"><img src="/static/images/circle-shape-cta-01-academy-template.svg" alt="" class="circle-shape-cta _1">
+				</div>
+			</div>
+		</div>
+		<footer class="footer">
+			<div class="container-default-1209px w-container">
+				<div class="footer-links-block">
+					<div class="links-block footer-links">
+						<a href="/" class="brand w-inline-block"><img src="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/6030af958678e259c6e94f21_logo.png" width="208" alt=""/></a>
+						<div class="social-media-wrapper footer-fine-print">
+							<a href="https://www.facebook.com/" class="social-media-icon-wrapper w-inline-block">
+								<div class="social-media-icon-footer"></div>
+							</a>
+							<div class="spacer social-media-footer"></div>
+							<a href="https://twitter.com/" class="social-media-icon-wrapper w-inline-block">
+								<div class="social-media-icon-footer twitter"></div>
+							</a>
+							<div class="spacer social-media-footer"></div>
+							<a href="https://www.instagram.com/" class="social-media-icon-wrapper w-inline-block">
+								<div class="social-media-icon-footer"></div>
+							</a>
+							<div class="spacer social-media-footer"></div>
+							<a href="https://www.linkedin.com/" class="social-media-icon-wrapper w-inline-block">
+								<div class="social-media-icon-footer"></div>
+							</a>
+						</div>
+					</div>
+					<div class="links-block _2">
+						<div class="footer-mobile-title">
+							<h3 class="footer-title">Pages<span class="dropdown-icon-footer"></span></h3>
+						</div>
+						<div class="footer-mobile-content">
+							<div class="footer-content-links">
+								<ul role="list" class="list-footer w-list-unstyled">
+									<li class="footer-list-item"><a href="/" class="footer-link">Home</a></li>
+									<li class="footer-list-item"><a href="/about-us" class="footer-link">About</a></li>
+									<li class="footer-list-item"><a href="/courses" class="footer-link">Courses</a></li>
+								</ul>
+								<div class="spacer links-footer"></div>
+								<ul role="list" class="list-footer w-list-unstyled">
+									<li class="footer-list-item"><a href="/community" class="footer-link">Community</a></li>
+									<li class="footer-list-item"><a href="/instructors" class="footer-link">Instructors</a></li>
+									<li class="footer-list-item"><a href="/contact-us" class="footer-link">Contact</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="container-newsletter">
+					<div class="split-content newsletter-left">
+						<div class="newsletter-icon-wrapper"><img src="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/60306606d61c1d3a2023ec7e_icon-newsletter-academy-template.svg" alt="" class="newsletter-icon"/></div>
+						<div class="newsletter-content">
+							<div class="title newsletter">Join our newsletter</div>
+							<div>Stay updated about new Cloud Classroom courses, events, and more!</div>
+						</div>
+					</div>
+					<div class="form-block newsletter w-form">
+						<form id="wf-form-Footer-Newsletter" name="wf-form-Footer-Newsletter" data-name="Footer Newsletter" class="form-newsletter"><input type="email" class="input newsletter w-input" maxlength="256" name="email-4" data-name="Email 4" placeholder="Enter your email" id="email-4" required=""/><input type="submit" value="Subscribe" data-wait="Please wait..." class="button-primary w-button"/></form>
+						<div class="success-message w-form-done">
+							<div>Thank you! You are now subscribed!</div>
+						</div>
+						<div class="error-message w-form-fail">
+							<div>Oops! Something went wrong.</div>
+						</div>
+					</div>
+				</div>
+				<div class="footer-fine-print-wrapper">
+					<div class="fine-print">Copyright 2020 &copy; Cloud Classroom</div>
+					<div class="payment-processor-container"><img src="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/60306606d61c1dc76823ecfe_paypal-logo.svg" alt="" class="payment-processor-logo"/><img src="https://cdn.prod.website-files.com/60306606d61c1d030823ec1e/60306606d61c1db36623ed13_stripe-logo.svg" alt="" class="payment-processor-logo"/></div>
+				</div>
+			</div>
+		</footer>
+		<script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=60306606d61c1d030823ec1e" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+		<script src="https://assets-global.website-files.com/60306606d61c1d030823ec1e/js/webflow.3647010f7.js" type="text/javascript"></script>
+		<script src="/static/js/nav-current.js" type="text/javascript"></script>
+	</body>
 </html>

@@ -1,0 +1,29 @@
+Crawling Home (/)...
+  Local: 59276 chars, Prod: 85159 chars
+  Found 11 differences
+Crawling About Us (/about-us)...
+  Local: 35762 chars, Prod: 59762 chars
+  Found 10 differences
+Crawling Courses (/courses)...
+  Local: 170729 chars, Prod: 68449 chars
+  Found 9 differences
+Crawling Community (/community)...
+  Local: 34126 chars, Prod: 57419 chars
+  Found 11 differences
+Crawling Instructors/Volunteers (/instructors)...
+  Local: 39633 chars, Prod: 96378 chars
+  Found 11 differences
+Crawling Contact Us (/contact-us)...
+  Local: 16658 chars, Prod: 45980 chars
+  Found 8 differences
+Traceback (most recent call last):
+  File "C:\Cloud Classroom\TheCloudClassroom\crawl_compare.py", line 637, in <module>
+    main()
+    ~~~~^^
+  File "C:\Cloud Classroom\TheCloudClassroom\crawl_compare.py", line 628, in main
+    print("\n" + report)
+    ~~~~~^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 286-365: character maps to <undefined>
