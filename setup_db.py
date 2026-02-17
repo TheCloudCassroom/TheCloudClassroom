@@ -5,7 +5,10 @@ Run this once: python setup_db.py
 import sqlite3
 import os
 
-DB_PATH = os.path.join(os.path.dirname(__file__), "local.db")
+if os.environ.get("VERCEL"):
+    DB_PATH = "/tmp/local.db"
+else:
+    DB_PATH = os.path.join(os.path.dirname(__file__), "local.db")
 
 def setup():
     # Remove existing DB to start fresh

@@ -6,8 +6,18 @@ from datetime import datetime
 
 app = Flask(__name__)
 
-# Use local SQLite database (run setup_db.py first to create it)
-DB_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "local.db")
+# Use local SQLite database
+# On Vercel, the filesystem is read-only except /tmp, so create DB there
+if os.environ.get("VERCEL"):
+    DB_PATH = "/tmp/local.db"
+else:
+    DB_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "local.db")
+
+# Auto-initialize DB if it doesn't exist (needed for Vercel cold starts)
+if not os.path.exists(DB_PATH):
+    from setup_db import setup
+    setup()
+
 engine = create_engine(f"sqlite:///{DB_PATH}")
 db = scoped_session(sessionmaker(bind=engine))
 s = db()
