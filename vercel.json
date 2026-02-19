@@ -2,6 +2,10 @@
   "version": 2,
   "builds": [
     {
+      "src": "index.html",
+      "use": "@vercel/static"
+    },
+    {
       "src": "app.py",
       "use": "@vercel/python"
     }
@@ -9,8 +13,7 @@
   "routes": [
     {
       "src": "^/$",
-      "status": 308,
-      "headers": { "Location": "/index.html" }
+      "dest": "index.html"
     },
     {
       "src": "/(.*)",
