@@ -8,6 +8,11 @@
   ],
   "routes": [
     {
+      "src": "^/$",
+      "status": 308,
+      "headers": { "Location": "/index.html" }
+    },
+    {
       "src": "/(.*)",
       "dest": "app.py"
     }
